@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from typing import List, Dict, Optional
 from .ner_stanza import StanzaNER
 from . import regex_min
-from .dictionaries import RUS_NAME_FIRST, STOP_UNITS, ADDR_MARKERS
+from .dictionaries import RUS_NAME_FIRST, STOP_UNITS, ADDR_MARKERS, LEGAL_SHORT
 from .normalizers import normalize_phone, snils_checksum_ok, addr_incomplete
 from .resolver import resolve_overlaps, Span
 from .profiles import WEIGHTS, THRESHOLDS
@@ -89,6 +89,11 @@ class HybridAnonymizer:
                 token = c.text.lower().strip('.')
                 if token in STOP_UNITS:
                     c.penalty = 1
+            if c.type in {"PHONE", "SNILS", "ADDR", "PER"}:
+                tokens = [t.lower().strip('.,') for t in c.text.split()]
+                dicts = (RUS_NAME_FIRST, LEGAL_SHORT, ADDR_MARKERS)
+                if any(tok in d for d in dicts for tok in tokens):
+                    c.dict_hit = 1
             c.ctx_feat = self._context_score(text, c.start, c.end, c.type)
             sc = self._score(c)
             thr = THRESHOLDS.get(c.type, 0.7)
