@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "redactru.report",
+  "type": "object",
+  "properties": {
+    "version": { "type": "string", "const": "1" },
+    "source_path": { "type": "string" },
+    "encoding": { "type": "string" },
+    "created_utc": { "type": "string" },
+    "counts": {
+      "type": "object",
+      "properties": {
+        "total": { "type": "integer", "minimum": 0 },
+        "applied": { "type": "integer", "minimum": 0 },
+        "skipped": { "type": "integer", "minimum": 0 }
+      },
+      "required": ["total", "applied", "skipped"],
+      "additionalProperties": false
+    },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/op" }
+    }
+  },
+  "required": ["version", "source_path", "encoding", "created_utc", "counts", "items"],
+  "$defs": {
+    "op": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "typ": { "type": "string", "enum": ["SNILS", "PHONE", "ADDR", "PER"] },
+        "start": { "type": "integer", "minimum": 0 },
+        "end": { "type": "integer", "minimum": 0 },
+        "old": { "type": "string" },
+        "new": { "type": "string" },
+        "ok_slice": { "type": "boolean" }
+      },
+      "required": ["id", "typ", "start", "end", "old", "new", "ok_slice"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

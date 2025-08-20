@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "redactru"
+version = "0.1.0"
+description = "Prototype CLI for Russian text anonymization (FIO, phones, SNILS, addresses)"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [{ name = "Юрий Силаев" }]
+dependencies = [
+  "typer>=0.12",
+  "rich>=13.7",
+  "pydantic>=2.8",
+  "pymorphy3>=2.0",
+  "petrovich>=2.0",
+  "razdel>=0.5",
+  "rapidfuzz>=3.9",
+  "jsonschema>=4.22",
+  "colorama>=0.4",
+  "stanza==1.9.2",
+  "razdel>=0.5.0",
+  "pymorphy3>=2.0.1",
+  "rapidfuzz>=3.9.0",
+]
+
+[project.optional-dependencies]
+gpu = ["transformers>=4.41", "tokenizers>=0.15", "accelerate>=0.31"]
+
+[project.scripts]
+redact = "redactru.cli:app"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

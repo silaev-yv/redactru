@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "PER:659-670",
+    "typ": "PER",
+    "start": 659,
+    "end": 670,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:737-755",
+    "typ": "PHONE",
+    "start": 737,
+    "end": 755,
+    "text": "+7 (950) 766-16-19",
+    "norm": "+79507661619",
+    "score": 0.9,
+    "meta": {
+      "digits": "79507661619"
+    }
+  },
+  {
+    "id": "SNILS:842-856",
+    "typ": "SNILS",
+    "start": 842,
+    "end": 856,
+    "text": "590-830-166 00",
+    "norm": "590-830-166 00",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:1297-1309",
+    "typ": "PER",
+    "start": 1297,
+    "end": 1309,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:1579-1606",
+    "typ": "PHONE",
+    "start": 1579,
+    "end": 1606,
+    "text": "+7 (930) 192-80-64 доб. 978",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79301928064978"
+    }
+  },
+  {
+    "id": "PHONE:1835-1850",
+    "typ": "PHONE",
+    "start": 1835,
+    "end": 1850,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:1941-1968",
+    "typ": "PHONE",
+    "start": 1941,
+    "end": 1968,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:2073-2087",
+    "typ": "SNILS",
+    "start": 2073,
+    "end": 2087,
+    "text": "082-462-819 74",
+    "norm": "082-462-819 74",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:2113-2127",
+    "typ": "SNILS",
+    "start": 2113,
+    "end": 2127,
+    "text": "139-099-603 98",
+    "norm": "139-099-603 98",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:3838-3856",
+    "typ": "PHONE",
+    "start": 3838,
+    "end": 3856,
+    "text": "+7 (974) 684-91-34",
+    "norm": "+79746849134",
+    "score": 0.9,
+    "meta": {
+      "digits": "79746849134"
+    }
+  },
+  {
+    "id": "PHONE:4085-4112",
+    "typ": "PHONE",
+    "start": 4085,
+    "end": 4112,
+    "text": "+7 (970) 829-18-82 доб. 986",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79708291882986"
+    }
+  },
+  {
+    "id": "PER:4459-4470",
+    "typ": "PER",
+    "start": 4459,
+    "end": 4470,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:4925-4936",
+    "typ": "SNILS",
+    "start": 4925,
+    "end": 4936,
+    "text": "79092207563",
+    "norm": "790-922-075 63",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:4945-4959",
+    "typ": "SNILS",
+    "start": 4945,
+    "end": 4959,
+    "text": "579-754-323 61",
+    "norm": "579-754-323 61",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:4980-4995",
+    "typ": "PHONE",
+    "start": 4980,
+    "end": 4995,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:5005-5019",
+    "typ": "SNILS",
+    "start": 5005,
+    "end": 5019,
+    "text": "194-875-749 49",
+    "norm": "194-875-749 49",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:5692-5703",
+    "typ": "PER",
+    "start": 5692,
+    "end": 5703,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:5770-5798",
+    "typ": "PHONE",
+    "start": 5770,
+    "end": 5798,
+    "text": "+7 (963) 182-31-67 доб. 6590",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "796318231676590"
+    }
+  },
+  {
+    "id": "SNILS:5885-5899",
+    "typ": "SNILS",
+    "start": 5885,
+    "end": 5899,
+    "text": "426-846-563 14",
+    "norm": "426-846-563 14",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:6454-6466",
+    "typ": "PER",
+    "start": 6454,
+    "end": 6466,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:6736-6754",
+    "typ": "PHONE",
+    "start": 6736,
+    "end": 6754,
+    "text": "+7 (910) 280-29-39",
+    "norm": "+79102802939",
+    "score": 0.9,
+    "meta": {
+      "digits": "79102802939"
+    }
+  },
+  {
+    "id": "PHONE:7010-7028",
+    "typ": "PHONE",
+    "start": 7010,
+    "end": 7028,
+    "text": "+7 (951) 503-23-71",
+    "norm": "+79515032371",
+    "score": 0.9,
+    "meta": {
+      "digits": "79515032371"
+    }
+  },
+  {
+    "id": "PHONE:7257-7275",
+    "typ": "PHONE",
+    "start": 7257,
+    "end": 7275,
+    "text": "+7 (924) 168-36-66",
+    "norm": "+79241683666",
+    "score": 0.9,
+    "meta": {
+      "digits": "79241683666"
+    }
+  },
+  {
+    "id": "ADDR:7651-7693",
+    "typ": "ADDR",
+    "start": 7651,
+    "end": 7693,
+    "text": "край Пермский, Владимир, пр-кт Победы, д 1",
+    "norm": null,
+    "score": 0.7,
+    "meta": {}
+  },
+  {
+    "id": "PHONE:8102-8117",
+    "typ": "PHONE",
+    "start": 8102,
+    "end": 8117,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:8208-8235",
+    "typ": "PHONE",
+    "start": 8208,
+    "end": 8235,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:8340-8354",
+    "typ": "SNILS",
+    "start": 8340,
+    "end": 8354,
+    "text": "599-528-907 84",
+    "norm": "599-528-907 84",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:8380-8394",
+    "typ": "SNILS",
+    "start": 8380,
+    "end": 8394,
+    "text": "792-440-268 18",
+    "norm": "792-440-268 18",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:9656-9667",
+    "typ": "PER",
+    "start": 9656,
+    "end": 9667,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:10160-10175",
+    "typ": "PHONE",
+    "start": 10160,
+    "end": 10175,
+    "text": "7-915-218-72-69",
+    "norm": "+79152187269",
+    "score": 0.9,
+    "meta": {
+      "digits": "79152187269"
+    }
+  },
+  {
+    "id": "SNILS:10184-10198",
+    "typ": "SNILS",
+    "start": 10184,
+    "end": 10198,
+    "text": "092-815-901 86",
+    "norm": "092-815-901 86",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:10219-10234",
+    "typ": "PHONE",
+    "start": 10219,
+    "end": 10234,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:10244-10258",
+    "typ": "SNILS",
+    "start": 10244,
+    "end": 10258,
+    "text": "396-245-957 36",
+    "norm": "396-245-957 36",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:10848-10859",
+    "typ": "PER",
+    "start": 10848,
+    "end": 10859,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:10926-10941",
+    "typ": "PHONE",
+    "start": 10926,
+    "end": 10941,
+    "text": "7-933-298-98-87",
+    "norm": "+79332989887",
+    "score": 0.9,
+    "meta": {
+      "digits": "79332989887"
+    }
+  },
+  {
+    "id": "SNILS:11028-11042",
+    "typ": "SNILS",
+    "start": 11028,
+    "end": 11042,
+    "text": "551-313-735 58",
+    "norm": "551-313-735 58",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:11483-11495",
+    "typ": "PER",
+    "start": 11483,
+    "end": 11495,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:11766-11777",
+    "typ": "SNILS",
+    "start": 11766,
+    "end": 11777,
+    "text": "79617398810",
+    "norm": "796-173-988 10",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:12033-12048",
+    "typ": "PHONE",
+    "start": 12033,
+    "end": 12048,
+    "text": "8 984 458 29 80",
+    "norm": "+79844582980",
+    "score": 0.9,
+    "meta": {
+      "digits": "89844582980"
+    }
+  },
+  {
+    "id": "PHONE:12405-12420",
+    "typ": "PHONE",
+    "start": 12405,
+    "end": 12420,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:12511-12538",
+    "typ": "PHONE",
+    "start": 12511,
+    "end": 12538,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:12643-12657",
+    "typ": "SNILS",
+    "start": 12643,
+    "end": 12657,
+    "text": "676-122-202 83",
+    "norm": "676-122-202 83",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:12683-12697",
+    "typ": "SNILS",
+    "start": 12683,
+    "end": 12697,
+    "text": "116-372-651 49",
+    "norm": "116-372-651 49",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:13458-13473",
+    "typ": "PHONE",
+    "start": 13458,
+    "end": 13473,
+    "text": "8 902 114 93 23",
+    "norm": "+79021149323",
+    "score": 0.9,
+    "meta": {
+      "digits": "89021149323"
+    }
+  },
+  {
+    "id": "PER:14659-14670",
+    "typ": "PER",
+    "start": 14659,
+    "end": 14670,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:15124-15152",
+    "typ": "PHONE",
+    "start": 15124,
+    "end": 15152,
+    "text": "+7 (964) 233-78-29 доб. 8587",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "796423378298587"
+    }
+  },
+  {
+    "id": "SNILS:15161-15175",
+    "typ": "SNILS",
+    "start": 15161,
+    "end": 15175,
+    "text": "043-483-954 69",
+    "norm": "043-483-954 69",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:15196-15211",
+    "typ": "PHONE",
+    "start": 15196,
+    "end": 15211,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:15221-15235",
+    "typ": "SNILS",
+    "start": 15221,
+    "end": 15235,
+    "text": "862-057-986 35",
+    "norm": "862-057-986 35",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:15829-15840",
+    "typ": "PER",
+    "start": 15829,
+    "end": 15840,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:15907-15925",
+    "typ": "PHONE",
+    "start": 15907,
+    "end": 15925,
+    "text": "+7 (971) 307-67-27",
+    "norm": "+79713076727",
+    "score": 0.9,
+    "meta": {
+      "digits": "79713076727"
+    }
+  },
+  {
+    "id": "SNILS:16012-16026",
+    "typ": "SNILS",
+    "start": 16012,
+    "end": 16026,
+    "text": "675-136-134 01",
+    "norm": "675-136-134 01",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:16542-16554",
+    "typ": "PER",
+    "start": 16542,
+    "end": 16554,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:16824-16839",
+    "typ": "PHONE",
+    "start": 16824,
+    "end": 16839,
+    "text": "8 999 258 92 94",
+    "norm": "+79992589294",
+    "score": 0.9,
+    "meta": {
+      "digits": "89992589294"
+    }
+  },
+  {
+    "id": "PHONE:17051-17069",
+    "typ": "PHONE",
+    "start": 17051,
+    "end": 17069,
+    "text": "+7 (966) 738-47-75",
+    "norm": "+79667384775",
+    "score": 0.9,
+    "meta": {
+      "digits": "79667384775"
+    }
+  },
+  {
+    "id": "SNILS:18951-18962",
+    "typ": "SNILS",
+    "start": 18951,
+    "end": 18962,
+    "text": "79705696612",
+    "norm": "797-056-966 12",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:19399-19414",
+    "typ": "PHONE",
+    "start": 19399,
+    "end": 19414,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:19505-19532",
+    "typ": "PHONE",
+    "start": 19505,
+    "end": 19532,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:19637-19651",
+    "typ": "SNILS",
+    "start": 19637,
+    "end": 19651,
+    "text": "268-656-355 29",
+    "norm": "268-656-355 29",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:19677-19691",
+    "typ": "SNILS",
+    "start": 19677,
+    "end": 19691,
+    "text": "427-316-723 76",
+    "norm": "427-316-723 76",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:19998-20009",
+    "typ": "PER",
+    "start": 19998,
+    "end": 20009,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:20538-20556",
+    "typ": "PHONE",
+    "start": 20538,
+    "end": 20556,
+    "text": "+7 (988) 287-64-19",
+    "norm": "+79882876419",
+    "score": 0.9,
+    "meta": {
+      "digits": "79882876419"
+    }
+  },
+  {
+    "id": "SNILS:20565-20579",
+    "typ": "SNILS",
+    "start": 20565,
+    "end": 20579,
+    "text": "440-242-646 39",
+    "norm": "440-242-646 39",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:20600-20615",
+    "typ": "PHONE",
+    "start": 20600,
+    "end": 20615,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:20625-20639",
+    "typ": "SNILS",
+    "start": 20625,
+    "end": 20639,
+    "text": "288-975-140 57",
+    "norm": "288-975-140 57",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:21233-21244",
+    "typ": "PER",
+    "start": 21233,
+    "end": 21244,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:21311-21326",
+    "typ": "PHONE",
+    "start": 21311,
+    "end": 21326,
+    "text": "8 988 320 39 53",
+    "norm": "+79883203953",
+    "score": 0.9,
+    "meta": {
+      "digits": "89883203953"
+    }
+  },
+  {
+    "id": "SNILS:21413-21427",
+    "typ": "SNILS",
+    "start": 21413,
+    "end": 21427,
+    "text": "650-201-462 35",
+    "norm": "650-201-462 35",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:21943-21955",
+    "typ": "PER",
+    "start": 21943,
+    "end": 21955,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:22225-22253",
+    "typ": "PHONE",
+    "start": 22225,
+    "end": 22253,
+    "text": "+7 (910) 781-58-74 доб. 4629",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "791078158744629"
+    }
+  },
+  {
+    "id": "PHONE:22429-22447",
+    "typ": "PHONE",
+    "start": 22429,
+    "end": 22447,
+    "text": "+7 (931) 616-10-21",
+    "norm": "+79316161021",
+    "score": 0.9,
+    "meta": {
+      "digits": "79316161021"
+    }
+  },
+  {
+    "id": "PHONE:22932-22947",
+    "typ": "PHONE",
+    "start": 22932,
+    "end": 22947,
+    "text": "8 948 185 70 45",
+    "norm": "+79481857045",
+    "score": 0.9,
+    "meta": {
+      "digits": "89481857045"
+    }
+  },
+  {
+    "id": "PHONE:23715-23730",
+    "typ": "PHONE",
+    "start": 23715,
+    "end": 23730,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:23821-23848",
+    "typ": "PHONE",
+    "start": 23821,
+    "end": 23848,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:23953-23967",
+    "typ": "SNILS",
+    "start": 23953,
+    "end": 23967,
+    "text": "455-853-043 05",
+    "norm": "455-853-043 05",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:23993-24007",
+    "typ": "SNILS",
+    "start": 23993,
+    "end": 24007,
+    "text": "340-722-470 45",
+    "norm": "340-722-470 45",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:25399-25410",
+    "typ": "PER",
+    "start": 25399,
+    "end": 25410,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:25864-25879",
+    "typ": "PHONE",
+    "start": 25864,
+    "end": 25879,
+    "text": "8 991 625 90 64",
+    "norm": "+79916259064",
+    "score": 0.9,
+    "meta": {
+      "digits": "89916259064"
+    }
+  },
+  {
+    "id": "SNILS:25888-25902",
+    "typ": "SNILS",
+    "start": 25888,
+    "end": 25902,
+    "text": "604-431-982 69",
+    "norm": "604-431-982 69",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:25923-25938",
+    "typ": "PHONE",
+    "start": 25923,
+    "end": 25938,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:25948-25962",
+    "typ": "SNILS",
+    "start": 25948,
+    "end": 25962,
+    "text": "965-724-920 62",
+    "norm": "965-724-920 62",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:26562-26573",
+    "typ": "PER",
+    "start": 26562,
+    "end": 26573,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:26641-26652",
+    "typ": "SNILS",
+    "start": 26641,
+    "end": 26652,
+    "text": "79097142852",
+    "norm": "790-971-428 52",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:26739-26753",
+    "typ": "SNILS",
+    "start": 26739,
+    "end": 26753,
+    "text": "992-070-741 30",
+    "norm": "992-070-741 30",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:27264-27276",
+    "typ": "PER",
+    "start": 27264,
+    "end": 27276,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:27547-27558",
+    "typ": "SNILS",
+    "start": 27547,
+    "end": 27558,
+    "text": "79277917247",
+    "norm": "792-779-172 47",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:27770-27785",
+    "typ": "PHONE",
+    "start": 27770,
+    "end": 27785,
+    "text": "8 980 620 45 24",
+    "norm": "+79806204524",
+    "score": 0.9,
+    "meta": {
+      "digits": "89806204524"
+    }
+  },
+  {
+    "id": "PHONE:29117-29132",
+    "typ": "PHONE",
+    "start": 29117,
+    "end": 29132,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:29223-29250",
+    "typ": "PHONE",
+    "start": 29223,
+    "end": 29250,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:29355-29369",
+    "typ": "SNILS",
+    "start": 29355,
+    "end": 29369,
+    "text": "047-187-463 81",
+    "norm": "047-187-463 81",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:29395-29409",
+    "typ": "SNILS",
+    "start": 29395,
+    "end": 29409,
+    "text": "777-183-417 46",
+    "norm": "777-183-417 46",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:29812-29840",
+    "typ": "PHONE",
+    "start": 29812,
+    "end": 29840,
+    "text": "+7 (995) 636-43-56 доб. 2182",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "799563643562182"
+    }
+  },
+  {
+    "id": "PER:30575-30586",
+    "typ": "PER",
+    "start": 30575,
+    "end": 30586,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:31155-31166",
+    "typ": "SNILS",
+    "start": 31155,
+    "end": 31166,
+    "text": "79153001147",
+    "norm": "791-530-011 47",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:31175-31189",
+    "typ": "SNILS",
+    "start": 31175,
+    "end": 31189,
+    "text": "020-776-426 38",
+    "norm": "020-776-426 38",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:31210-31225",
+    "typ": "PHONE",
+    "start": 31210,
+    "end": 31225,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:31235-31249",
+    "typ": "SNILS",
+    "start": 31235,
+    "end": 31249,
+    "text": "565-150-556 90",
+    "norm": "565-150-556 90",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:31922-31933",
+    "typ": "PER",
+    "start": 31922,
+    "end": 31933,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:32000-32015",
+    "typ": "PHONE",
+    "start": 32000,
+    "end": 32015,
+    "text": "7-983-344-48-71",
+    "norm": "+79833444871",
+    "score": 0.9,
+    "meta": {
+      "digits": "79833444871"
+    }
+  },
+  {
+    "id": "SNILS:32102-32116",
+    "typ": "SNILS",
+    "start": 32102,
+    "end": 32116,
+    "text": "122-138-783 31",
+    "norm": "122-138-783 31",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:32555-32567",
+    "typ": "PER",
+    "start": 32555,
+    "end": 32567,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:32837-32865",
+    "typ": "PHONE",
+    "start": 32837,
+    "end": 32865,
+    "text": "+7 (942) 877-67-64 доб. 2297",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "794287767642297"
+    }
+  },
+  {
+    "id": "SNILS:33644-33655",
+    "typ": "SNILS",
+    "start": 33644,
+    "end": 33655,
+    "text": "79961637345",
+    "norm": "799-616-373 45",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:33884-33902",
+    "typ": "PHONE",
+    "start": 33884,
+    "end": 33902,
+    "text": "+7 (916) 803-74-77",
+    "norm": "+79168037477",
+    "score": 0.9,
+    "meta": {
+      "digits": "79168037477"
+    }
+  },
+  {
+    "id": "PHONE:35389-35404",
+    "typ": "PHONE",
+    "start": 35389,
+    "end": 35404,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:35495-35522",
+    "typ": "PHONE",
+    "start": 35495,
+    "end": 35522,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:35627-35641",
+    "typ": "SNILS",
+    "start": 35627,
+    "end": 35641,
+    "text": "549-306-668 18",
+    "norm": "549-306-668 18",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:35667-35681",
+    "typ": "SNILS",
+    "start": 35667,
+    "end": 35681,
+    "text": "331-258-153 43",
+    "norm": "331-258-153 43",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:36024-36035",
+    "typ": "PER",
+    "start": 36024,
+    "end": 36035,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:36528-36546",
+    "typ": "PHONE",
+    "start": 36528,
+    "end": 36546,
+    "text": "+7 (913) 329-29-29",
+    "norm": "+79133292929",
+    "score": 0.9,
+    "meta": {
+      "digits": "79133292929"
+    }
+  },
+  {
+    "id": "SNILS:36555-36569",
+    "typ": "SNILS",
+    "start": 36555,
+    "end": 36569,
+    "text": "676-402-067 01",
+    "norm": "676-402-067 01",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:36590-36605",
+    "typ": "PHONE",
+    "start": 36590,
+    "end": 36605,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:36615-36629",
+    "typ": "SNILS",
+    "start": 36615,
+    "end": 36629,
+    "text": "970-168-773 42",
+    "norm": "970-168-773 42",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:37223-37234",
+    "typ": "PER",
+    "start": 37223,
+    "end": 37234,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:37301-37316",
+    "typ": "PHONE",
+    "start": 37301,
+    "end": 37316,
+    "text": "7-929-783-64-57",
+    "norm": "+79297836457",
+    "score": 0.9,
+    "meta": {
+      "digits": "79297836457"
+    }
+  },
+  {
+    "id": "SNILS:37403-37417",
+    "typ": "SNILS",
+    "start": 37403,
+    "end": 37417,
+    "text": "056-563-048 69",
+    "norm": "056-563-048 69",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:37933-37945",
+    "typ": "PER",
+    "start": 37933,
+    "end": 37945,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:38215-38230",
+    "typ": "PHONE",
+    "start": 38215,
+    "end": 38230,
+    "text": "8 926 607 35 49",
+    "norm": "+79266073549",
+    "score": 0.9,
+    "meta": {
+      "digits": "89266073549"
+    }
+  },
+  {
+    "id": "PHONE:38500-38515",
+    "typ": "PHONE",
+    "start": 38500,
+    "end": 38515,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:38606-38633",
+    "typ": "PHONE",
+    "start": 38606,
+    "end": 38633,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:38738-38752",
+    "typ": "SNILS",
+    "start": 38738,
+    "end": 38752,
+    "text": "376-092-603 98",
+    "norm": "376-092-603 98",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:38778-38792",
+    "typ": "SNILS",
+    "start": 38778,
+    "end": 38792,
+    "text": "734-419-792 20",
+    "norm": "734-419-792 20",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:40079-40090",
+    "typ": "SNILS",
+    "start": 40079,
+    "end": 40090,
+    "text": "79914212420",
+    "norm": "799-142-124 20",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:40536-40551",
+    "typ": "PHONE",
+    "start": 40536,
+    "end": 40551,
+    "text": "7-906-826-17-33",
+    "norm": "+79068261733",
+    "score": 0.9,
+    "meta": {
+      "digits": "79068261733"
+    }
+  },
+  {
+    "id": "PER:41336-41347",
+    "typ": "PER",
+    "start": 41336,
+    "end": 41347,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:41840-41858",
+    "typ": "PHONE",
+    "start": 41840,
+    "end": 41858,
+    "text": "+7 (945) 887-49-65",
+    "norm": "+79458874965",
+    "score": 0.9,
+    "meta": {
+      "digits": "79458874965"
+    }
+  },
+  {
+    "id": "SNILS:41867-41881",
+    "typ": "SNILS",
+    "start": 41867,
+    "end": 41881,
+    "text": "046-557-210 64",
+    "norm": "046-557-210 64",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:41902-41917",
+    "typ": "PHONE",
+    "start": 41902,
+    "end": 41917,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:41927-41941",
+    "typ": "SNILS",
+    "start": 41927,
+    "end": 41941,
+    "text": "141-561-836 48",
+    "norm": "141-561-836 48",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:42535-42546",
+    "typ": "PER",
+    "start": 42535,
+    "end": 42546,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:42613-42628",
+    "typ": "PHONE",
+    "start": 42613,
+    "end": 42628,
+    "text": "8 955 934 73 26",
+    "norm": "+79559347326",
+    "score": 0.9,
+    "meta": {
+      "digits": "89559347326"
+    }
+  },
+  {
+    "id": "SNILS:42715-42729",
+    "typ": "SNILS",
+    "start": 42715,
+    "end": 42729,
+    "text": "042-935-575 68",
+    "norm": "042-935-575 68",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:43279-43291",
+    "typ": "PER",
+    "start": 43279,
+    "end": 43291,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:43561-43576",
+    "typ": "PHONE",
+    "start": 43561,
+    "end": 43576,
+    "text": "8 910 624 35 60",
+    "norm": "+79106243560",
+    "score": 0.9,
+    "meta": {
+      "digits": "89106243560"
+    }
+  },
+  {
+    "id": "SNILS:44162-44173",
+    "typ": "SNILS",
+    "start": 44162,
+    "end": 44173,
+    "text": "79997802547",
+    "norm": "799-978-025 47",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:45708-45736",
+    "typ": "PHONE",
+    "start": 45708,
+    "end": 45736,
+    "text": "+7 (917) 526-68-89 доб. 3859",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "791752668893859"
+    }
+  },
+  {
+    "id": "PHONE:46093-46108",
+    "typ": "PHONE",
+    "start": 46093,
+    "end": 46108,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:46199-46226",
+    "typ": "PHONE",
+    "start": 46199,
+    "end": 46226,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:46331-46345",
+    "typ": "SNILS",
+    "start": 46331,
+    "end": 46345,
+    "text": "114-913-167 37",
+    "norm": "114-913-167 37",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:46371-46385",
+    "typ": "SNILS",
+    "start": 46371,
+    "end": 46385,
+    "text": "610-788-526 01",
+    "norm": "610-788-526 01",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:46807-46818",
+    "typ": "PER",
+    "start": 46807,
+    "end": 46818,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:47347-47365",
+    "typ": "PHONE",
+    "start": 47347,
+    "end": 47365,
+    "text": "+7 (967) 336-93-22",
+    "norm": "+79673369322",
+    "score": 0.9,
+    "meta": {
+      "digits": "79673369322"
+    }
+  },
+  {
+    "id": "SNILS:47374-47388",
+    "typ": "SNILS",
+    "start": 47374,
+    "end": 47388,
+    "text": "443-732-332 70",
+    "norm": "443-732-332 70",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:47409-47424",
+    "typ": "PHONE",
+    "start": 47409,
+    "end": 47424,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:47434-47448",
+    "typ": "SNILS",
+    "start": 47434,
+    "end": 47448,
+    "text": "493-516-438 13",
+    "norm": "493-516-438 13",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:48116-48127",
+    "typ": "PER",
+    "start": 48116,
+    "end": 48127,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:48194-48209",
+    "typ": "PHONE",
+    "start": 48194,
+    "end": 48209,
+    "text": "7-983-267-60-99",
+    "norm": "+79832676099",
+    "score": 0.9,
+    "meta": {
+      "digits": "79832676099"
+    }
+  },
+  {
+    "id": "SNILS:48296-48310",
+    "typ": "SNILS",
+    "start": 48296,
+    "end": 48310,
+    "text": "446-049-566 98",
+    "norm": "446-049-566 98",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:48751-48763",
+    "typ": "PER",
+    "start": 48751,
+    "end": 48763,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:49033-49048",
+    "typ": "PHONE",
+    "start": 49033,
+    "end": 49048,
+    "text": "7-998-921-56-92",
+    "norm": "+79989215692",
+    "score": 0.9,
+    "meta": {
+      "digits": "79989215692"
+    }
+  },
+  {
+    "id": "SNILS:50546-50557",
+    "typ": "SNILS",
+    "start": 50546,
+    "end": 50557,
+    "text": "79946163128",
+    "norm": "799-461-631 28",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:50950-50965",
+    "typ": "PHONE",
+    "start": 50950,
+    "end": 50965,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:51056-51083",
+    "typ": "PHONE",
+    "start": 51056,
+    "end": 51083,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:51188-51202",
+    "typ": "SNILS",
+    "start": 51188,
+    "end": 51202,
+    "text": "957-220-082 08",
+    "norm": "957-220-082 08",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:51228-51242",
+    "typ": "SNILS",
+    "start": 51228,
+    "end": 51242,
+    "text": "630-626-116 59",
+    "norm": "630-626-116 59",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:51527-51542",
+    "typ": "PHONE",
+    "start": 51527,
+    "end": 51542,
+    "text": "7-920-633-31-18",
+    "norm": "+79206333118",
+    "score": 0.9,
+    "meta": {
+      "digits": "79206333118"
+    }
+  },
+  {
+    "id": "PER:51889-51900",
+    "typ": "PER",
+    "start": 51889,
+    "end": 51900,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:52354-52369",
+    "typ": "PHONE",
+    "start": 52354,
+    "end": 52369,
+    "text": "7-927-142-61-76",
+    "norm": "+79271426176",
+    "score": 0.9,
+    "meta": {
+      "digits": "79271426176"
+    }
+  },
+  {
+    "id": "SNILS:52378-52392",
+    "typ": "SNILS",
+    "start": 52378,
+    "end": 52392,
+    "text": "207-509-619 61",
+    "norm": "207-509-619 61",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:52413-52428",
+    "typ": "PHONE",
+    "start": 52413,
+    "end": 52428,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:52438-52452",
+    "typ": "SNILS",
+    "start": 52438,
+    "end": 52452,
+    "text": "239-693-729 31",
+    "norm": "239-693-729 31",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:53136-53147",
+    "typ": "PER",
+    "start": 53136,
+    "end": 53147,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:53214-53242",
+    "typ": "PHONE",
+    "start": 53214,
+    "end": 53242,
+    "text": "+7 (905) 751-26-20 доб. 5150",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "790575126205150"
+    }
+  },
+  {
+    "id": "SNILS:53329-53343",
+    "typ": "SNILS",
+    "start": 53329,
+    "end": 53343,
+    "text": "108-620-191 32",
+    "norm": "108-620-191 32",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:53823-53835",
+    "typ": "PER",
+    "start": 53823,
+    "end": 53835,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:54105-54123",
+    "typ": "PHONE",
+    "start": 54105,
+    "end": 54123,
+    "text": "+7 (916) 603-46-31",
+    "norm": "+79166034631",
+    "score": 0.9,
+    "meta": {
+      "digits": "79166034631"
+    }
+  },
+  {
+    "id": "PHONE:54391-54406",
+    "typ": "PHONE",
+    "start": 54391,
+    "end": 54406,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:54497-54524",
+    "typ": "PHONE",
+    "start": 54497,
+    "end": 54524,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:54629-54643",
+    "typ": "SNILS",
+    "start": 54629,
+    "end": 54643,
+    "text": "487-394-983 72",
+    "norm": "487-394-983 72",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:54669-54683",
+    "typ": "SNILS",
+    "start": 54669,
+    "end": 54683,
+    "text": "594-259-472 45",
+    "norm": "594-259-472 45",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "ADDR:54735-54787",
+    "typ": "ADDR",
+    "start": 54735,
+    "end": 54787,
+    "text": "край Пермский, г. Владимир, пер. Чехова, д.7, кв. 14",
+    "norm": null,
+    "score": 0.7,
+    "meta": {}
+  },
+  {
+    "id": "SNILS:55660-55671",
+    "typ": "SNILS",
+    "start": 55660,
+    "end": 55671,
+    "text": "79235133091",
+    "norm": "792-351-330 91",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:56866-56884",
+    "typ": "PHONE",
+    "start": 56866,
+    "end": 56884,
+    "text": "+7 (948) 272-43-24",
+    "norm": "+79482724324",
+    "score": 0.9,
+    "meta": {
+      "digits": "79482724324"
+    }
+  },
+  {
+    "id": "PER:57231-57242",
+    "typ": "PER",
+    "start": 57231,
+    "end": 57242,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:57697-57708",
+    "typ": "SNILS",
+    "start": 57697,
+    "end": 57708,
+    "text": "79663594991",
+    "norm": "796-635-949 91",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:57717-57731",
+    "typ": "SNILS",
+    "start": 57717,
+    "end": 57731,
+    "text": "486-546-592 49",
+    "norm": "486-546-592 49",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:57752-57767",
+    "typ": "PHONE",
+    "start": 57752,
+    "end": 57767,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:57777-57791",
+    "typ": "SNILS",
+    "start": 57777,
+    "end": 57791,
+    "text": "551-732-904 88",
+    "norm": "551-732-904 88",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:58457-58468",
+    "typ": "PER",
+    "start": 58457,
+    "end": 58468,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:58535-58563",
+    "typ": "PHONE",
+    "start": 58535,
+    "end": 58563,
+    "text": "+7 (931) 269-10-15 доб. 1018",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "793126910151018"
+    }
+  },
+  {
+    "id": "SNILS:58650-58664",
+    "typ": "SNILS",
+    "start": 58650,
+    "end": 58664,
+    "text": "062-320-109 01",
+    "norm": "062-320-109 01",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:59213-59225",
+    "typ": "PER",
+    "start": 59213,
+    "end": 59225,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:59495-59523",
+    "typ": "PHONE",
+    "start": 59495,
+    "end": 59523,
+    "text": "+7 (984) 301-28-62 доб. 3278",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "798430128623278"
+    }
+  },
+  {
+    "id": "SNILS:60822-60833",
+    "typ": "SNILS",
+    "start": 60822,
+    "end": 60833,
+    "text": "79297591425",
+    "norm": "792-975-914 25",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:61156-61171",
+    "typ": "PHONE",
+    "start": 61156,
+    "end": 61171,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:61262-61289",
+    "typ": "PHONE",
+    "start": 61262,
+    "end": 61289,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:61394-61408",
+    "typ": "SNILS",
+    "start": 61394,
+    "end": 61408,
+    "text": "078-066-717 95",
+    "norm": "078-066-717 95",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:61434-61448",
+    "typ": "SNILS",
+    "start": 61434,
+    "end": 61448,
+    "text": "986-928-414 00",
+    "norm": "986-928-414 00",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:61728-61743",
+    "typ": "PHONE",
+    "start": 61728,
+    "end": 61743,
+    "text": "7-991-153-44-91",
+    "norm": "+79911534491",
+    "score": 0.9,
+    "meta": {
+      "digits": "79911534491"
+    }
+  },
+  {
+    "id": "PER:62612-62623",
+    "typ": "PER",
+    "start": 62612,
+    "end": 62623,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:63151-63169",
+    "typ": "PHONE",
+    "start": 63151,
+    "end": 63169,
+    "text": "+7 (960) 959-77-99",
+    "norm": "+79609597799",
+    "score": 0.9,
+    "meta": {
+      "digits": "79609597799"
+    }
+  },
+  {
+    "id": "SNILS:63178-63192",
+    "typ": "SNILS",
+    "start": 63178,
+    "end": 63192,
+    "text": "318-024-332 33",
+    "norm": "318-024-332 33",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:63213-63228",
+    "typ": "PHONE",
+    "start": 63213,
+    "end": 63228,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:63238-63252",
+    "typ": "SNILS",
+    "start": 63238,
+    "end": 63252,
+    "text": "536-593-687 38",
+    "norm": "536-593-687 38",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:63898-63909",
+    "typ": "PER",
+    "start": 63898,
+    "end": 63909,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "SNILS:63977-63988",
+    "typ": "SNILS",
+    "start": 63977,
+    "end": 63988,
+    "text": "79129109236",
+    "norm": "791-291-092 36",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:64075-64089",
+    "typ": "SNILS",
+    "start": 64075,
+    "end": 64089,
+    "text": "564-054-405 78",
+    "norm": "564-054-405 78",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:64528-64540",
+    "typ": "PER",
+    "start": 64528,
+    "end": 64540,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:64810-64838",
+    "typ": "PHONE",
+    "start": 64810,
+    "end": 64838,
+    "text": "+7 (998) 716-74-70 доб. 4722",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "799871674704722"
+    }
+  },
+  {
+    "id": "PHONE:65577-65592",
+    "typ": "PHONE",
+    "start": 65577,
+    "end": 65592,
+    "text": "8 900 456 72 22",
+    "norm": "+79004567222",
+    "score": 0.9,
+    "meta": {
+      "digits": "89004567222"
+    }
+  },
+  {
+    "id": "PHONE:66447-66462",
+    "typ": "PHONE",
+    "start": 66447,
+    "end": 66462,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:66553-66580",
+    "typ": "PHONE",
+    "start": 66553,
+    "end": 66580,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:66685-66699",
+    "typ": "SNILS",
+    "start": 66685,
+    "end": 66699,
+    "text": "893-194-260 48",
+    "norm": "893-194-260 48",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:66725-66739",
+    "typ": "SNILS",
+    "start": 66725,
+    "end": 66739,
+    "text": "060-681-570 57",
+    "norm": "060-681-570 57",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "ADDR:67042-67095",
+    "typ": "ADDR",
+    "start": 67042,
+    "end": 67095,
+    "text": "Республика Татарстан, Томск, пер. Чехова, д.7, кв. 14",
+    "norm": null,
+    "score": 0.7,
+    "meta": {}
+  },
+  {
+    "id": "PHONE:67415-67443",
+    "typ": "PHONE",
+    "start": 67415,
+    "end": 67443,
+    "text": "+7 (963) 706-54-75 доб. 4279",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "796370654754279"
+    }
+  },
+  {
+    "id": "PER:67790-67801",
+    "typ": "PER",
+    "start": 67790,
+    "end": 67801,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:68255-68270",
+    "typ": "PHONE",
+    "start": 68255,
+    "end": 68270,
+    "text": "8 938 369 64 79",
+    "norm": "+79383696479",
+    "score": 0.9,
+    "meta": {
+      "digits": "89383696479"
+    }
+  },
+  {
+    "id": "SNILS:68279-68293",
+    "typ": "SNILS",
+    "start": 68279,
+    "end": 68293,
+    "text": "372-117-815 66",
+    "norm": "372-117-815 66",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:68314-68329",
+    "typ": "PHONE",
+    "start": 68314,
+    "end": 68329,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:68339-68353",
+    "typ": "SNILS",
+    "start": 68339,
+    "end": 68353,
+    "text": "516-616-053 73",
+    "norm": "516-616-053 73",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:68960-68971",
+    "typ": "PER",
+    "start": 68960,
+    "end": 68971,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:69038-69053",
+    "typ": "PHONE",
+    "start": 69038,
+    "end": 69053,
+    "text": "8 924 364 23 31",
+    "norm": "+79243642331",
+    "score": 0.9,
+    "meta": {
+      "digits": "89243642331"
+    }
+  },
+  {
+    "id": "SNILS:69140-69154",
+    "typ": "SNILS",
+    "start": 69140,
+    "end": 69154,
+    "text": "622-446-431 70",
+    "norm": "622-446-431 70",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:69665-69677",
+    "typ": "PER",
+    "start": 69665,
+    "end": 69677,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:69947-69965",
+    "typ": "PHONE",
+    "start": 69947,
+    "end": 69965,
+    "text": "+7 (913) 387-36-59",
+    "norm": "+79133873659",
+    "score": 0.9,
+    "meta": {
+      "digits": "79133873659"
+    }
+  },
+  {
+    "id": "PHONE:70236-70251",
+    "typ": "PHONE",
+    "start": 70236,
+    "end": 70251,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:70342-70369",
+    "typ": "PHONE",
+    "start": 70342,
+    "end": 70369,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:70474-70488",
+    "typ": "SNILS",
+    "start": 70474,
+    "end": 70488,
+    "text": "496-036-996 38",
+    "norm": "496-036-996 38",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:70514-70528",
+    "typ": "SNILS",
+    "start": 70514,
+    "end": 70528,
+    "text": "066-384-702 87",
+    "norm": "066-384-702 87",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:72244-72255",
+    "typ": "SNILS",
+    "start": 72244,
+    "end": 72255,
+    "text": "79822276865",
+    "norm": "798-222-768 65",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PHONE:72559-72574",
+    "typ": "PHONE",
+    "start": 72559,
+    "end": 72574,
+    "text": "7-980-817-22-63",
+    "norm": "+79808172263",
+    "score": 0.9,
+    "meta": {
+      "digits": "79808172263"
+    }
+  },
+  {
+    "id": "PER:72921-72932",
+    "typ": "PER",
+    "start": 72921,
+    "end": 72932,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:73386-73414",
+    "typ": "PHONE",
+    "start": 73386,
+    "end": 73414,
+    "text": "+7 (966) 456-22-83 доб. 7493",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "796645622837493"
+    }
+  },
+  {
+    "id": "SNILS:73423-73437",
+    "typ": "SNILS",
+    "start": 73423,
+    "end": 73437,
+    "text": "770-968-250 49",
+    "norm": "770-968-250 49",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:73458-73473",
+    "typ": "PHONE",
+    "start": 73458,
+    "end": 73473,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:73483-73497",
+    "typ": "SNILS",
+    "start": 73483,
+    "end": 73497,
+    "text": "671-048-323 85",
+    "norm": "671-048-323 85",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "PER:74127-74138",
+    "typ": "PER",
+    "start": 74127,
+    "end": 74138,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:74205-74220",
+    "typ": "PHONE",
+    "start": 74205,
+    "end": 74220,
+    "text": "7-982-675-38-28",
+    "norm": "+79826753828",
+    "score": 0.9,
+    "meta": {
+      "digits": "79826753828"
+    }
+  },
+  {
+    "id": "SNILS:74307-74321",
+    "typ": "SNILS",
+    "start": 74307,
+    "end": 74321,
+    "text": "748-275-346 39",
+    "norm": "748-275-346 39",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PER:74832-74844",
+    "typ": "PER",
+    "start": 74832,
+    "end": 74844,
+    "text": "И.О. Сидоров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:75114-75132",
+    "typ": "PHONE",
+    "start": 75114,
+    "end": 75132,
+    "text": "+7 (932) 536-96-33",
+    "norm": "+79325369633",
+    "score": 0.9,
+    "meta": {
+      "digits": "79325369633"
+    }
+  },
+  {
+    "id": "PHONE:75269-75284",
+    "typ": "PHONE",
+    "start": 75269,
+    "end": 75284,
+    "text": "8 977 203 84 28",
+    "norm": "+79772038428",
+    "score": 0.9,
+    "meta": {
+      "digits": "89772038428"
+    }
+  },
+  {
+    "id": "PHONE:75705-75720",
+    "typ": "PHONE",
+    "start": 75705,
+    "end": 75720,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "PHONE:75811-75838",
+    "typ": "PHONE",
+    "start": 75811,
+    "end": 75838,
+    "text": "+7 (999) 123-45-67 доб. 123",
+    "norm": null,
+    "score": 0.9,
+    "meta": {
+      "digits": "79991234567123"
+    }
+  },
+  {
+    "id": "SNILS:75943-75957",
+    "typ": "SNILS",
+    "start": 75943,
+    "end": 75957,
+    "text": "152-460-195 42",
+    "norm": "152-460-195 42",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "SNILS:75983-75997",
+    "typ": "SNILS",
+    "start": 75983,
+    "end": 75997,
+    "text": "453-457-769 15",
+    "norm": "453-457-769 15",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "SNILS:76422-76433",
+    "typ": "SNILS",
+    "start": 76422,
+    "end": 76433,
+    "text": "79841113619",
+    "norm": "798-411-136 19",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  },
+  {
+    "id": "ADDR:76747-76797",
+    "typ": "ADDR",
+    "start": 76747,
+    "end": 76797,
+    "text": "р-н Ленинский, Рим, проспект Мира, дом 10, корп. 2",
+    "norm": null,
+    "score": 0.7,
+    "meta": {}
+  },
+  {
+    "id": "PER:78156-78167",
+    "typ": "PER",
+    "start": 78156,
+    "end": 78167,
+    "text": "И.О. Петров",
+    "norm": null,
+    "score": 0.5,
+    "meta": {
+      "kind": "regex"
+    }
+  },
+  {
+    "id": "PHONE:78696-78711",
+    "typ": "PHONE",
+    "start": 78696,
+    "end": 78711,
+    "text": "7-933-529-39-27",
+    "norm": "+79335293927",
+    "score": 0.9,
+    "meta": {
+      "digits": "79335293927"
+    }
+  },
+  {
+    "id": "SNILS:78720-78734",
+    "typ": "SNILS",
+    "start": 78720,
+    "end": 78734,
+    "text": "368-299-184 45",
+    "norm": "368-299-184 45",
+    "score": 1.0,
+    "meta": {
+      "valid": true
+    }
+  },
+  {
+    "id": "PHONE:78755-78770",
+    "typ": "PHONE",
+    "start": 78755,
+    "end": 78770,
+    "text": "7-321-654-98-76",
+    "norm": "+73216549876",
+    "score": 0.9,
+    "meta": {
+      "digits": "73216549876"
+    }
+  },
+  {
+    "id": "SNILS:78780-78794",
+    "typ": "SNILS",
+    "start": 78780,
+    "end": 78794,
+    "text": "373-817-181 04",
+    "norm": "373-817-181 04",
+    "score": 0.2,
+    "meta": {
+      "valid": false
+    }
+  }
+]

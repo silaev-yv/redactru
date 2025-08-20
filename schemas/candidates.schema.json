@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "redactru.candidates",
+  "type": "object",
+  "description": "Список кандидатов после ручной правки. Готово к шагу apply.",
+  "properties": {
+    "version": { "type": "string", "const": "1" },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/candidate" }
+    }
+  },
+  "required": ["version", "items"],
+  "$defs": {
+    "candidate": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Исходный идентификатор: TYPE:start-end" },
+        "typ": { "type": "string", "enum": ["SNILS", "PHONE", "ADDR", "PER"] },
+        "start": { "type": "integer", "minimum": 0 },
+        "end": { "type": "integer", "minimum": 0 },
+        "text": { "type": "string" },
+        "norm": { "type": ["string", "null"] },
+        "score": { "type": "number", "minimum": 0, "maximum": 1 },
+        "apply": { "type": "boolean", "description": "true = применять замену" },
+        "replacement": { "type": "string", "description": "Токен вида [PER_001] / [ADDR_002] и т.д." },
+        "meta": { "type": "object", "additionalProperties": true }
+      },
+      "required": ["id", "typ", "start", "end", "text", "score", "apply", "replacement"],
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

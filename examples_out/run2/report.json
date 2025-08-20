@@ -1,0 +1,6376 @@
+{
+  "version": "1",
+  "source_path": "C:\\Dev\\redactru\\examples\\ambiguous_corpus_ru.txt",
+  "encoding": "utf-8",
+  "created_utc": "2025-08-19T14:01:46+00:00",
+  "counts": {
+    "total": 707,
+    "applied": 347,
+    "skipped": 360
+  },
+  "items": [
+    {
+      "id": "PER:549-560",
+      "typ": "PER",
+      "start": 549,
+      "end": 560,
+      "old": "И.О. Петров",
+      "new": "[PER_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:931-1006",
+      "typ": "ADDR",
+      "start": 931,
+      "end": 1006,
+      "old": "обл. Томская, р-н Ленинский, с. Первомайское, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:1034-1077",
+      "typ": "ADDR",
+      "start": 1034,
+      "end": 1077,
+      "old": "город Владимир, проспект Мира, дом 10, корп",
+      "new": "[ADDR_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1275-1290",
+      "typ": "PHONE",
+      "start": 1275,
+      "end": 1290,
+      "old": "8 981 214 13 45",
+      "new": "[PHONE_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1331-1349",
+      "typ": "PHONE",
+      "start": 1331,
+      "end": 1349,
+      "old": "+7 (917) 854-23-96",
+      "new": "[PHONE_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1390-1405",
+      "typ": "PHONE",
+      "start": 1390,
+      "end": 1405,
+      "old": "8 975 532 14 13",
+      "new": "[PHONE_003]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1446-1461",
+      "typ": "PHONE",
+      "start": 1446,
+      "end": 1461,
+      "old": "8 929 617 87 13",
+      "new": "[PHONE_004]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1502-1517",
+      "typ": "PHONE",
+      "start": 1502,
+      "end": 1517,
+      "old": "8 991 765 99 79",
+      "new": "[PHONE_005]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1558-1573",
+      "typ": "PHONE",
+      "start": 1558,
+      "end": 1573,
+      "old": "7-957-703-45-10",
+      "new": "[PHONE_006]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1614-1632",
+      "typ": "PHONE",
+      "start": 1614,
+      "end": 1632,
+      "old": "+7 (943) 384-29-37",
+      "new": "[PHONE_007]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1673-1701",
+      "typ": "PHONE",
+      "start": 1673,
+      "end": 1701,
+      "old": "+7 (911) 489-22-55 доб. 5645",
+      "new": "[PHONE_008]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1742-1760",
+      "typ": "PHONE",
+      "start": 1742,
+      "end": 1760,
+      "old": "+7 (933) 926-15-68",
+      "new": "[PHONE_009]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:1801-1829",
+      "typ": "PHONE",
+      "start": 1801,
+      "end": 1829,
+      "old": "+7 (948) 180-80-47 доб. 5935",
+      "new": "[PHONE_010]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:1871-1882",
+      "typ": "SNILS",
+      "start": 1871,
+      "end": 1882,
+      "old": "79248211815",
+      "new": "[SNILS_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:1924-1935",
+      "typ": "SNILS",
+      "start": 1924,
+      "end": 1935,
+      "old": "79109753922",
+      "new": "[SNILS_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:1977-1988",
+      "typ": "SNILS",
+      "start": 1977,
+      "end": 1988,
+      "old": "79587505630",
+      "new": "[SNILS_003]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2029-2057",
+      "typ": "PHONE",
+      "start": 2029,
+      "end": 2057,
+      "old": "+7 (926) 786-44-99 доб. 1179",
+      "new": "[PHONE_011]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2098-2113",
+      "typ": "PHONE",
+      "start": 2098,
+      "end": 2113,
+      "old": "7-981-275-78-41",
+      "new": "[PHONE_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2154-2169",
+      "typ": "PHONE",
+      "start": 2154,
+      "end": 2169,
+      "old": "8 948 376 91 98",
+      "new": "[PHONE_013]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:2211-2222",
+      "typ": "SNILS",
+      "start": 2211,
+      "end": 2222,
+      "old": "79874321739",
+      "new": "[SNILS_004]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:2264-2275",
+      "typ": "SNILS",
+      "start": 2264,
+      "end": 2275,
+      "old": "79513741837",
+      "new": "[SNILS_005]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2316-2331",
+      "typ": "PHONE",
+      "start": 2316,
+      "end": 2331,
+      "old": "8 927 771 73 60",
+      "new": "[PHONE_014]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:2373-2384",
+      "typ": "SNILS",
+      "start": 2373,
+      "end": 2384,
+      "old": "79332424181",
+      "new": "[SNILS_006]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:2426-2437",
+      "typ": "SNILS",
+      "start": 2426,
+      "end": 2437,
+      "old": "79956986484",
+      "new": "[SNILS_007]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2478-2496",
+      "typ": "PHONE",
+      "start": 2478,
+      "end": 2496,
+      "old": "+7 (928) 241-75-73",
+      "new": "[PHONE_015]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2537-2565",
+      "typ": "PHONE",
+      "start": 2537,
+      "end": 2565,
+      "old": "+7 (914) 256-90-30 доб. 6926",
+      "new": "[PHONE_016]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2606-2634",
+      "typ": "PHONE",
+      "start": 2606,
+      "end": 2634,
+      "old": "+7 (908) 494-58-86 доб. 7678",
+      "new": "[PHONE_017]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2675-2703",
+      "typ": "PHONE",
+      "start": 2675,
+      "end": 2703,
+      "old": "+7 (932) 666-11-97 доб. 1886",
+      "new": "[PHONE_018]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:2745-2756",
+      "typ": "SNILS",
+      "start": 2745,
+      "end": 2756,
+      "old": "79963739253",
+      "new": "[SNILS_008]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2797-2825",
+      "typ": "PHONE",
+      "start": 2797,
+      "end": 2825,
+      "old": "+7 (955) 261-68-10 доб. 4325",
+      "new": "[PHONE_019]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2866-2894",
+      "typ": "PHONE",
+      "start": 2866,
+      "end": 2894,
+      "old": "+7 (997) 282-74-23 доб. 4899",
+      "new": "[PHONE_020]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:2935-2963",
+      "typ": "PHONE",
+      "start": 2935,
+      "end": 2963,
+      "old": "+7 (977) 303-29-57 доб. 2656",
+      "new": "[PHONE_021]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3004-3019",
+      "typ": "PHONE",
+      "start": 3004,
+      "end": 3019,
+      "old": "7-999-643-10-86",
+      "new": "[PHONE_022]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3060-3078",
+      "typ": "PHONE",
+      "start": 3060,
+      "end": 3078,
+      "old": "+7 (902) 214-56-49",
+      "new": "[PHONE_023]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3119-3134",
+      "typ": "PHONE",
+      "start": 3119,
+      "end": 3134,
+      "old": "7-930-999-82-20",
+      "new": "[PHONE_024]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3175-3190",
+      "typ": "PHONE",
+      "start": 3175,
+      "end": 3190,
+      "old": "7-908-878-78-26",
+      "new": "[PHONE_025]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3231-3246",
+      "typ": "PHONE",
+      "start": 3231,
+      "end": 3246,
+      "old": "7-970-269-43-77",
+      "new": "[PHONE_026]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3287-3302",
+      "typ": "PHONE",
+      "start": 3287,
+      "end": 3302,
+      "old": "7-927-652-98-35",
+      "new": "[PHONE_027]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3343-3358",
+      "typ": "PHONE",
+      "start": 3343,
+      "end": 3358,
+      "old": "7-985-765-57-66",
+      "new": "[PHONE_028]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3399-3417",
+      "typ": "PHONE",
+      "start": 3399,
+      "end": 3417,
+      "old": "+7 (915) 353-38-18",
+      "new": "[PHONE_029]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3458-3476",
+      "typ": "PHONE",
+      "start": 3458,
+      "end": 3476,
+      "old": "+7 (975) 667-39-85",
+      "new": "[PHONE_030]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3517-3535",
+      "typ": "PHONE",
+      "start": 3517,
+      "end": 3535,
+      "old": "+7 (909) 824-90-17",
+      "new": "[PHONE_031]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3576-3591",
+      "typ": "PHONE",
+      "start": 3576,
+      "end": 3591,
+      "old": "8 904 980 52 19",
+      "new": "[PHONE_032]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3632-3647",
+      "typ": "PHONE",
+      "start": 3632,
+      "end": 3647,
+      "old": "8 935 785 72 37",
+      "new": "[PHONE_033]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3688-3703",
+      "typ": "PHONE",
+      "start": 3688,
+      "end": 3703,
+      "old": "7-992-684-83-70",
+      "new": "[PHONE_034]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:3745-3756",
+      "typ": "SNILS",
+      "start": 3745,
+      "end": 3756,
+      "old": "79522942222",
+      "new": "[SNILS_009]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3797-3815",
+      "typ": "PHONE",
+      "start": 3797,
+      "end": 3815,
+      "old": "+7 (954) 520-69-16",
+      "new": "[PHONE_035]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3856-3871",
+      "typ": "PHONE",
+      "start": 3856,
+      "end": 3871,
+      "old": "8 951 845 53 23",
+      "new": "[PHONE_036]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3912-3927",
+      "typ": "PHONE",
+      "start": 3912,
+      "end": 3927,
+      "old": "8 924 649 67 27",
+      "new": "[PHONE_037]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:3968-3996",
+      "typ": "PHONE",
+      "start": 3968,
+      "end": 3996,
+      "old": "+7 (935) 573-41-19 доб. 7270",
+      "new": "[PHONE_038]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4037-4055",
+      "typ": "PHONE",
+      "start": 4037,
+      "end": 4055,
+      "old": "+7 (912) 151-93-79",
+      "new": "[PHONE_039]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4096-4111",
+      "typ": "PHONE",
+      "start": 4096,
+      "end": 4111,
+      "old": "7-996-969-40-31",
+      "new": "[PHONE_040]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4152-4167",
+      "typ": "PHONE",
+      "start": 4152,
+      "end": 4167,
+      "old": "7-961-318-61-17",
+      "new": "[PHONE_041]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4208-4223",
+      "typ": "PHONE",
+      "start": 4208,
+      "end": 4223,
+      "old": "7-900-499-43-68",
+      "new": "[PHONE_042]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4264-4279",
+      "typ": "PHONE",
+      "start": 4264,
+      "end": 4279,
+      "old": "8 989 848 81 94",
+      "new": "[PHONE_043]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4320-4348",
+      "typ": "PHONE",
+      "start": 4320,
+      "end": 4348,
+      "old": "+7 (924) 403-37-17 доб. 9499",
+      "new": "[PHONE_044]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4389-4416",
+      "typ": "PHONE",
+      "start": 4389,
+      "end": 4416,
+      "old": "+7 (907) 865-50-17 доб. 831",
+      "new": "[PHONE_045]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4457-4484",
+      "typ": "PHONE",
+      "start": 4457,
+      "end": 4484,
+      "old": "+7 (961) 614-77-30 доб. 941",
+      "new": "[PHONE_046]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4525-4543",
+      "typ": "PHONE",
+      "start": 4525,
+      "end": 4543,
+      "old": "+7 (910) 971-33-18",
+      "new": "[PHONE_047]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4584-4612",
+      "typ": "PHONE",
+      "start": 4584,
+      "end": 4612,
+      "old": "+7 (986) 982-40-61 доб. 1974",
+      "new": "[PHONE_048]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4653-4668",
+      "typ": "PHONE",
+      "start": 4653,
+      "end": 4668,
+      "old": "7-931-692-86-15",
+      "new": "[PHONE_049]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:4710-4721",
+      "typ": "SNILS",
+      "start": 4710,
+      "end": 4721,
+      "old": "79846978276",
+      "new": "[SNILS_010]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:4762-4777",
+      "typ": "PHONE",
+      "start": 4762,
+      "end": 4777,
+      "old": "7-926-785-50-40",
+      "new": "[PHONE_050]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:4871-4885",
+      "typ": "SNILS",
+      "start": 4871,
+      "end": 4885,
+      "old": "247-510-799 81",
+      "new": "[SNILS_011]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:4905-4919",
+      "typ": "SNILS",
+      "start": 4905,
+      "end": 4919,
+      "old": "118-384-251 63",
+      "new": "[SNILS_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:4939-4953",
+      "typ": "SNILS",
+      "start": 4939,
+      "end": 4953,
+      "old": "354-278-498 10",
+      "new": "[SNILS_013]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:4973-4987",
+      "typ": "SNILS",
+      "start": 4973,
+      "end": 4987,
+      "old": "084-124-118 36",
+      "new": "[SNILS_014]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5007-5021",
+      "typ": "SNILS",
+      "start": 5007,
+      "end": 5021,
+      "old": "244-935-348 91",
+      "new": "[SNILS_015]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5041-5055",
+      "typ": "SNILS",
+      "start": 5041,
+      "end": 5055,
+      "old": "740-164-005 51",
+      "new": "[SNILS_016]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5075-5089",
+      "typ": "SNILS",
+      "start": 5075,
+      "end": 5089,
+      "old": "242-786-801 94",
+      "new": "[SNILS_017]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5109-5123",
+      "typ": "SNILS",
+      "start": 5109,
+      "end": 5123,
+      "old": "128-059-826 75",
+      "new": "[SNILS_018]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5143-5157",
+      "typ": "SNILS",
+      "start": 5143,
+      "end": 5157,
+      "old": "204-505-331 11",
+      "new": "[SNILS_019]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5177-5191",
+      "typ": "SNILS",
+      "start": 5177,
+      "end": 5191,
+      "old": "586-923-226 41",
+      "new": "[SNILS_020]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5211-5225",
+      "typ": "SNILS",
+      "start": 5211,
+      "end": 5225,
+      "old": "025-634-216 31",
+      "new": "[SNILS_021]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5245-5259",
+      "typ": "SNILS",
+      "start": 5245,
+      "end": 5259,
+      "old": "073-375-433 70",
+      "new": "[SNILS_022]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5279-5293",
+      "typ": "SNILS",
+      "start": 5279,
+      "end": 5293,
+      "old": "036-541-458 49",
+      "new": "[SNILS_023]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5313-5327",
+      "typ": "SNILS",
+      "start": 5313,
+      "end": 5327,
+      "old": "685-014-294 00",
+      "new": "[SNILS_024]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5347-5361",
+      "typ": "SNILS",
+      "start": 5347,
+      "end": 5361,
+      "old": "019-655-698 95",
+      "new": "[SNILS_025]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5381-5395",
+      "typ": "SNILS",
+      "start": 5381,
+      "end": 5395,
+      "old": "169-340-608 83",
+      "new": "[SNILS_026]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5415-5429",
+      "typ": "SNILS",
+      "start": 5415,
+      "end": 5429,
+      "old": "835-615-951 28",
+      "new": "[SNILS_027]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5449-5463",
+      "typ": "SNILS",
+      "start": 5449,
+      "end": 5463,
+      "old": "484-656-482 41",
+      "new": "[SNILS_028]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5483-5497",
+      "typ": "SNILS",
+      "start": 5483,
+      "end": 5497,
+      "old": "366-299-468 40",
+      "new": "[SNILS_029]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5517-5531",
+      "typ": "SNILS",
+      "start": 5517,
+      "end": 5531,
+      "old": "044-369-957 87",
+      "new": "[SNILS_030]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5551-5565",
+      "typ": "SNILS",
+      "start": 5551,
+      "end": 5565,
+      "old": "773-872-148 48",
+      "new": "[SNILS_031]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5585-5599",
+      "typ": "SNILS",
+      "start": 5585,
+      "end": 5599,
+      "old": "951-343-320 90",
+      "new": "[SNILS_032]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5619-5633",
+      "typ": "SNILS",
+      "start": 5619,
+      "end": 5633,
+      "old": "037-917-693 98",
+      "new": "[SNILS_033]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5653-5667",
+      "typ": "SNILS",
+      "start": 5653,
+      "end": 5667,
+      "old": "676-320-163 97",
+      "new": "[SNILS_034]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5687-5701",
+      "typ": "SNILS",
+      "start": 5687,
+      "end": 5701,
+      "old": "287-083-172 00",
+      "new": "[SNILS_035]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5721-5735",
+      "typ": "SNILS",
+      "start": 5721,
+      "end": 5735,
+      "old": "788-957-986 36",
+      "new": "[SNILS_036]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5755-5769",
+      "typ": "SNILS",
+      "start": 5755,
+      "end": 5769,
+      "old": "872-774-348 58",
+      "new": "[SNILS_037]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5789-5803",
+      "typ": "SNILS",
+      "start": 5789,
+      "end": 5803,
+      "old": "734-714-345 99",
+      "new": "[SNILS_038]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5823-5837",
+      "typ": "SNILS",
+      "start": 5823,
+      "end": 5837,
+      "old": "581-223-623 74",
+      "new": "[SNILS_039]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5857-5871",
+      "typ": "SNILS",
+      "start": 5857,
+      "end": 5871,
+      "old": "166-587-603 16",
+      "new": "[SNILS_040]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5890-5904",
+      "typ": "SNILS",
+      "start": 5890,
+      "end": 5904,
+      "old": "669-096-705 59",
+      "new": "[SNILS_041]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5923-5937",
+      "typ": "SNILS",
+      "start": 5923,
+      "end": 5937,
+      "old": "466-889-373 75",
+      "new": "[SNILS_042]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5956-5970",
+      "typ": "SNILS",
+      "start": 5956,
+      "end": 5970,
+      "old": "467-065-627 11",
+      "new": "[SNILS_043]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:5989-6003",
+      "typ": "SNILS",
+      "start": 5989,
+      "end": 6003,
+      "old": "298-069-901 39",
+      "new": "[SNILS_044]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6022-6036",
+      "typ": "SNILS",
+      "start": 6022,
+      "end": 6036,
+      "old": "627-204-653 78",
+      "new": "[SNILS_045]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6055-6069",
+      "typ": "SNILS",
+      "start": 6055,
+      "end": 6069,
+      "old": "755-646-417 38",
+      "new": "[SNILS_046]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6088-6102",
+      "typ": "SNILS",
+      "start": 6088,
+      "end": 6102,
+      "old": "080-531-003 16",
+      "new": "[SNILS_047]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6121-6135",
+      "typ": "SNILS",
+      "start": 6121,
+      "end": 6135,
+      "old": "309-232-719 57",
+      "new": "[SNILS_048]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6154-6168",
+      "typ": "SNILS",
+      "start": 6154,
+      "end": 6168,
+      "old": "374-529-912 17",
+      "new": "[SNILS_049]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6187-6201",
+      "typ": "SNILS",
+      "start": 6187,
+      "end": 6201,
+      "old": "419-049-663 96",
+      "new": "[SNILS_050]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6220-6234",
+      "typ": "SNILS",
+      "start": 6220,
+      "end": 6234,
+      "old": "193-149-190 85",
+      "new": "[SNILS_051]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6253-6267",
+      "typ": "SNILS",
+      "start": 6253,
+      "end": 6267,
+      "old": "586-518-506 38",
+      "new": "[SNILS_052]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6286-6300",
+      "typ": "SNILS",
+      "start": 6286,
+      "end": 6300,
+      "old": "716-572-628 15",
+      "new": "[SNILS_053]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6319-6333",
+      "typ": "SNILS",
+      "start": 6319,
+      "end": 6333,
+      "old": "498-776-945 03",
+      "new": "[SNILS_054]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6352-6366",
+      "typ": "SNILS",
+      "start": 6352,
+      "end": 6366,
+      "old": "314-737-996 99",
+      "new": "[SNILS_055]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6385-6399",
+      "typ": "SNILS",
+      "start": 6385,
+      "end": 6399,
+      "old": "507-527-354 85",
+      "new": "[SNILS_056]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6418-6432",
+      "typ": "SNILS",
+      "start": 6418,
+      "end": 6432,
+      "old": "549-480-831 34",
+      "new": "[SNILS_057]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6451-6465",
+      "typ": "SNILS",
+      "start": 6451,
+      "end": 6465,
+      "old": "367-837-770 49",
+      "new": "[SNILS_058]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6484-6498",
+      "typ": "SNILS",
+      "start": 6484,
+      "end": 6498,
+      "old": "143-634-957 73",
+      "new": "[SNILS_059]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6517-6531",
+      "typ": "SNILS",
+      "start": 6517,
+      "end": 6531,
+      "old": "885-685-574 99",
+      "new": "[SNILS_060]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6550-6564",
+      "typ": "SNILS",
+      "start": 6550,
+      "end": 6564,
+      "old": "443-135-182 51",
+      "new": "[SNILS_061]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6583-6597",
+      "typ": "SNILS",
+      "start": 6583,
+      "end": 6597,
+      "old": "337-498-941 36",
+      "new": "[SNILS_062]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6616-6630",
+      "typ": "SNILS",
+      "start": 6616,
+      "end": 6630,
+      "old": "343-524-082 54",
+      "new": "[SNILS_063]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6649-6663",
+      "typ": "SNILS",
+      "start": 6649,
+      "end": 6663,
+      "old": "400-842-710 35",
+      "new": "[SNILS_064]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6682-6696",
+      "typ": "SNILS",
+      "start": 6682,
+      "end": 6696,
+      "old": "947-775-204 68",
+      "new": "[SNILS_065]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6715-6729",
+      "typ": "SNILS",
+      "start": 6715,
+      "end": 6729,
+      "old": "711-671-902 82",
+      "new": "[SNILS_066]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6748-6762",
+      "typ": "SNILS",
+      "start": 6748,
+      "end": 6762,
+      "old": "294-131-869 88",
+      "new": "[SNILS_067]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6781-6795",
+      "typ": "SNILS",
+      "start": 6781,
+      "end": 6795,
+      "old": "993-867-749 16",
+      "new": "[SNILS_068]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6814-6828",
+      "typ": "SNILS",
+      "start": 6814,
+      "end": 6828,
+      "old": "649-909-133 50",
+      "new": "[SNILS_069]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:6847-6861",
+      "typ": "SNILS",
+      "start": 6847,
+      "end": 6861,
+      "old": "412-328-120 25",
+      "new": "[SNILS_070]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:7384-7398",
+      "typ": "SNILS",
+      "start": 7384,
+      "end": 7398,
+      "old": "974-034-471 21",
+      "new": "[SNILS_071]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7431-7443",
+      "typ": "PER",
+      "start": 7431,
+      "end": 7443,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7499-7511",
+      "typ": "PER",
+      "start": 7499,
+      "end": 7511,
+      "old": "Валя Лебедев",
+      "new": "[PER_003]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7633-7645",
+      "typ": "PER",
+      "start": 7633,
+      "end": 7645,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7732-7744",
+      "typ": "PER",
+      "start": 7732,
+      "end": 7744,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7800-7810",
+      "typ": "PER",
+      "start": 7800,
+      "end": 7810,
+      "old": "Валя Серов",
+      "new": "[PER_004]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7853-7863",
+      "typ": "PER",
+      "start": 7853,
+      "end": 7863,
+      "old": "Май Иванов",
+      "new": "[PER_005]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7906-7918",
+      "typ": "PER",
+      "start": 7906,
+      "end": 7918,
+      "old": "И.О. Кравцов",
+      "new": "[PER_006]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:7961-7973",
+      "typ": "PER",
+      "start": 7961,
+      "end": 7973,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:8158-8173",
+      "typ": "PHONE",
+      "start": 8158,
+      "end": 8173,
+      "old": "7-989-512-44-74",
+      "new": "[PHONE_051]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:8239-8253",
+      "typ": "SNILS",
+      "start": 8239,
+      "end": 8253,
+      "old": "190-659-401 90",
+      "new": "[SNILS_072]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:8286-8302",
+      "typ": "PER",
+      "start": 8286,
+      "end": 8302,
+      "old": "Владимир Лебедев",
+      "new": "[PER_007]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:8345-8357",
+      "typ": "PER",
+      "start": 8345,
+      "end": 8357,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:8509-8524",
+      "typ": "PHONE",
+      "start": 8509,
+      "end": 8524,
+      "old": "7-973-141-32-70",
+      "new": "[PHONE_052]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:8576-8594",
+      "typ": "PHONE",
+      "start": 8576,
+      "end": 8594,
+      "old": "+7 (923) 699-65-91",
+      "new": "[PHONE_053]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:8660-8674",
+      "typ": "SNILS",
+      "start": 8660,
+      "end": 8674,
+      "old": "565-512-567 03",
+      "new": "[SNILS_073]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:8724-8742",
+      "typ": "PHONE",
+      "start": 8724,
+      "end": 8742,
+      "old": "+7 (984) 510-80-14",
+      "new": "[PHONE_054]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:8794-8812",
+      "typ": "PHONE",
+      "start": 8794,
+      "end": 8812,
+      "old": "+7 (932) 431-24-61",
+      "new": "[PHONE_055]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:8847-8859",
+      "typ": "PER",
+      "start": 8847,
+      "end": 8859,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:9042-9060",
+      "typ": "PHONE",
+      "start": 9042,
+      "end": 9060,
+      "old": "+7 (979) 874-73-90",
+      "new": "[PHONE_056]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:9150-9169",
+      "typ": "PER",
+      "start": 9150,
+      "end": 9169,
+      "old": "И.О. Сидоров-Петров",
+      "new": "[PER_008]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:9212-9224",
+      "typ": "PER",
+      "start": 9212,
+      "end": 9224,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:9311-9325",
+      "typ": "SNILS",
+      "start": 9311,
+      "end": 9325,
+      "old": "109-324-808 47",
+      "new": "[SNILS_074]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:9389-9403",
+      "typ": "SNILS",
+      "start": 9389,
+      "end": 9403,
+      "old": "131-712-748 31",
+      "new": "[SNILS_075]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:9436-9448",
+      "typ": "PER",
+      "start": 9436,
+      "end": 9448,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:9521-9536",
+      "typ": "PHONE",
+      "start": 9521,
+      "end": 9536,
+      "old": "7-953-954-71-70",
+      "new": "[PHONE_057]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:9645-9673",
+      "typ": "PHONE",
+      "start": 9645,
+      "end": 9673,
+      "old": "+7 (964) 373-10-46 доб. 4901",
+      "new": "[PHONE_058]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:9756-9767",
+      "typ": "SNILS",
+      "start": 9756,
+      "end": 9767,
+      "old": "79426657958",
+      "new": "[SNILS_076]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:9881-9893",
+      "typ": "PER",
+      "start": 9881,
+      "end": 9893,
+      "old": "Саша Кравцов",
+      "new": "[PER_009]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:9967-9981",
+      "typ": "SNILS",
+      "start": 9967,
+      "end": 9981,
+      "old": "360-576-627 92",
+      "new": "[SNILS_077]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:10253-10267",
+      "typ": "SNILS",
+      "start": 10253,
+      "end": 10267,
+      "old": "026-217-459 33",
+      "new": "[SNILS_078]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:10300-10312",
+      "typ": "PER",
+      "start": 10300,
+      "end": 10312,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:10399-10413",
+      "typ": "SNILS",
+      "start": 10399,
+      "end": 10413,
+      "old": "158-657-809 25",
+      "new": "[SNILS_079]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:10448-10478",
+      "typ": "ADDR",
+      "start": 10448,
+      "end": 10478,
+      "old": "р-н Казань, ул Ломоносова д 12",
+      "new": "[ADDR_003]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:10502-10514",
+      "typ": "PER",
+      "start": 10502,
+      "end": 10514,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:10572-10602",
+      "typ": "ADDR",
+      "start": 10572,
+      "end": 10602,
+      "old": "город Тверь, пр-кт Победы, д 1",
+      "new": "[ADDR_004]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:10657-10671",
+      "typ": "SNILS",
+      "start": 10657,
+      "end": 10671,
+      "old": "240-050-455 01",
+      "new": "[SNILS_080]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:10735-10749",
+      "typ": "SNILS",
+      "start": 10735,
+      "end": 10749,
+      "old": "238-692-221 97",
+      "new": "[SNILS_081]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:10814-10833",
+      "typ": "PER",
+      "start": 10814,
+      "end": 10833,
+      "old": "Саша Сидоров-Петров",
+      "new": "[PER_010]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:10876-10888",
+      "typ": "PER",
+      "start": 10876,
+      "end": 10888,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:10962-10973",
+      "typ": "SNILS",
+      "start": 10962,
+      "end": 10973,
+      "old": "79583619511",
+      "new": "[SNILS_082]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:11008-11020",
+      "typ": "PER",
+      "start": 11008,
+      "end": 11020,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:11126-11136",
+      "typ": "PER",
+      "start": 11126,
+      "end": 11136,
+      "old": "Пётр Серов",
+      "new": "[PER_011]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:11210-11224",
+      "typ": "SNILS",
+      "start": 11210,
+      "end": 11224,
+      "old": "136-959-440 08",
+      "new": "[SNILS_083]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:11336-11348",
+      "typ": "PER",
+      "start": 11336,
+      "end": 11348,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:11435-11449",
+      "typ": "SNILS",
+      "start": 11435,
+      "end": 11449,
+      "old": "409-097-439 98",
+      "new": "[SNILS_084]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:11578-11593",
+      "typ": "PHONE",
+      "start": 11578,
+      "end": 11593,
+      "old": "8 928 751 34 89",
+      "new": "[PHONE_059]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:11628-11640",
+      "typ": "PER",
+      "start": 11628,
+      "end": 11640,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:11757-11795",
+      "typ": "ADDR",
+      "start": 11757,
+      "end": 11795,
+      "old": "город Рим, проспект Мира, дом 10, корп",
+      "new": "[ADDR_005]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:11839-11854",
+      "typ": "PHONE",
+      "start": 11839,
+      "end": 11854,
+      "old": "8 941 865 63 32",
+      "new": "[PHONE_060]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:12007-12022",
+      "typ": "PHONE",
+      "start": 12007,
+      "end": 12022,
+      "old": "7-961-925-47-53",
+      "new": "[PHONE_061]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:12445-12459",
+      "typ": "SNILS",
+      "start": 12445,
+      "end": 12459,
+      "old": "098-593-174 34",
+      "new": "[SNILS_085]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:12492-12504",
+      "typ": "PER",
+      "start": 12492,
+      "end": 12504,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:12591-12605",
+      "typ": "SNILS",
+      "start": 12591,
+      "end": 12605,
+      "old": "120-047-113 81",
+      "new": "[SNILS_086]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:12667-12679",
+      "typ": "PER",
+      "start": 12667,
+      "end": 12679,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:12735-12747",
+      "typ": "PER",
+      "start": 12735,
+      "end": 12747,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:12856-12870",
+      "typ": "SNILS",
+      "start": 12856,
+      "end": 12870,
+      "old": "964-053-773 30",
+      "new": "[SNILS_087]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:12999-13017",
+      "typ": "PHONE",
+      "start": 12999,
+      "end": 13017,
+      "old": "+7 (912) 802-57-79",
+      "new": "[PHONE_062]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:13083-13097",
+      "typ": "SNILS",
+      "start": 13083,
+      "end": 13097,
+      "old": "431-713-900 52",
+      "new": "[SNILS_088]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:13226-13254",
+      "typ": "PHONE",
+      "start": 13226,
+      "end": 13254,
+      "old": "+7 (931) 228-82-36 доб. 1134",
+      "new": "[PHONE_063]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:13289-13299",
+      "typ": "PER",
+      "start": 13289,
+      "end": 13299,
+      "old": "Женя Серов",
+      "new": "[PER_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:13701-13719",
+      "typ": "PHONE",
+      "start": 13701,
+      "end": 13719,
+      "old": "+7 (922) 212-94-13",
+      "new": "[PHONE_064]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:13772-13783",
+      "typ": "SNILS",
+      "start": 13772,
+      "end": 13783,
+      "old": "79307025112",
+      "new": "[SNILS_089]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:14031-14046",
+      "typ": "PHONE",
+      "start": 14031,
+      "end": 14046,
+      "old": "8 965 707 23 67",
+      "new": "[PHONE_065]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:14206-14220",
+      "typ": "SNILS",
+      "start": 14206,
+      "end": 14220,
+      "old": "177-115-921 76",
+      "new": "[SNILS_090]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:14253-14265",
+      "typ": "PER",
+      "start": 14253,
+      "end": 14265,
+      "old": "Валя Кравцов",
+      "new": "[PER_013]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:14308-14320",
+      "typ": "PER",
+      "start": 14308,
+      "end": 14320,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:14427-14439",
+      "typ": "PER",
+      "start": 14427,
+      "end": 14439,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:14594-14608",
+      "typ": "SNILS",
+      "start": 14594,
+      "end": 14608,
+      "old": "365-766-156 23",
+      "new": "[SNILS_091]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:14658-14676",
+      "typ": "PHONE",
+      "start": 14658,
+      "end": 14676,
+      "old": "+7 (985) 361-57-29",
+      "new": "[PHONE_066]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:14713-14749",
+      "typ": "ADDR",
+      "start": 14713,
+      "end": 14749,
+      "old": "Республика Москва, пр-кт Победы, д 1",
+      "new": "[ADDR_006]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:14775-14812",
+      "typ": "ADDR",
+      "start": 14775,
+      "end": 14812,
+      "old": "край Рим, проспект Мира, дом 10, корп",
+      "new": "[ADDR_007]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:14902-14914",
+      "typ": "PER",
+      "start": 14902,
+      "end": 14914,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:15123-15135",
+      "typ": "PER",
+      "start": 15123,
+      "end": 15135,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:15252-15284",
+      "typ": "ADDR",
+      "start": 15252,
+      "end": 15284,
+      "old": "пос. Пермь, пер. Чехова, д.7, кв",
+      "new": "[ADDR_008]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:15312-15324",
+      "typ": "PER",
+      "start": 15312,
+      "end": 15324,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:15411-15425",
+      "typ": "SNILS",
+      "start": 15411,
+      "end": 15425,
+      "old": "315-851-493 79",
+      "new": "[SNILS_092]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:15568-15582",
+      "typ": "SNILS",
+      "start": 15568,
+      "end": 15582,
+      "old": "899-809-402 02",
+      "new": "[SNILS_093]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:15632-15650",
+      "typ": "PHONE",
+      "start": 15632,
+      "end": 15650,
+      "old": "+7 (989) 880-49-53",
+      "new": "[PHONE_067]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:15685-15700",
+      "typ": "PER",
+      "start": 15685,
+      "end": 15700,
+      "old": "Надежда Кравцов",
+      "new": "[PER_014]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:15743-15755",
+      "typ": "PER",
+      "start": 15743,
+      "end": 15755,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:15842-15856",
+      "typ": "SNILS",
+      "start": 15842,
+      "end": 15856,
+      "old": "120-183-667 19",
+      "new": "[SNILS_094]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:15906-15934",
+      "typ": "PHONE",
+      "start": 15906,
+      "end": 15934,
+      "old": "+7 (920) 478-49-51 доб. 9309",
+      "new": "[PHONE_068]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:16179-16193",
+      "typ": "SNILS",
+      "start": 16179,
+      "end": 16193,
+      "old": "797-643-815 81",
+      "new": "[SNILS_095]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:16257-16271",
+      "typ": "SNILS",
+      "start": 16257,
+      "end": 16271,
+      "old": "149-784-036 12",
+      "new": "[SNILS_096]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:16486-16501",
+      "typ": "PHONE",
+      "start": 16486,
+      "end": 16501,
+      "old": "8 915 107 73 65",
+      "new": "[PHONE_069]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:16567-16581",
+      "typ": "SNILS",
+      "start": 16567,
+      "end": 16581,
+      "old": "838-851-606 51",
+      "new": "[SNILS_097]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:16736-16750",
+      "typ": "SNILS",
+      "start": 16736,
+      "end": 16750,
+      "old": "416-052-975 64",
+      "new": "[SNILS_098]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:16785-16813",
+      "typ": "ADDR",
+      "start": 16785,
+      "end": 16813,
+      "old": "р-н Тверь, пр-кт Победы, д 1",
+      "new": "[ADDR_009]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:16868-16882",
+      "typ": "SNILS",
+      "start": 16868,
+      "end": 16882,
+      "old": "968-164-535 61",
+      "new": "[SNILS_099]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:17048-17060",
+      "typ": "PER",
+      "start": 17048,
+      "end": 17060,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:17271-17289",
+      "typ": "PHONE",
+      "start": 17271,
+      "end": 17289,
+      "old": "+7 (944) 844-92-28",
+      "new": "[PHONE_070]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:17382-17397",
+      "typ": "PER",
+      "start": 17382,
+      "end": 17397,
+      "old": "Надежда Лебедев",
+      "new": "[PER_015]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:17519-17531",
+      "typ": "PER",
+      "start": 17519,
+      "end": 17531,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:17754-17766",
+      "typ": "PER",
+      "start": 17754,
+      "end": 17766,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:17840-17851",
+      "typ": "SNILS",
+      "start": 17840,
+      "end": 17851,
+      "old": "79195501870",
+      "new": "[SNILS_100]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:17983-17994",
+      "typ": "SNILS",
+      "start": 17983,
+      "end": 17994,
+      "old": "79751575574",
+      "new": "[SNILS_101]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18060-18074",
+      "typ": "SNILS",
+      "start": 18060,
+      "end": 18074,
+      "old": "700-541-199 46",
+      "new": "[SNILS_102]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18161-18175",
+      "typ": "SNILS",
+      "start": 18161,
+      "end": 18175,
+      "old": "935-978-207 72",
+      "new": "[SNILS_103]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:18261-18273",
+      "typ": "PER",
+      "start": 18261,
+      "end": 18273,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:18386-18398",
+      "typ": "PER",
+      "start": 18386,
+      "end": 18398,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18485-18499",
+      "typ": "SNILS",
+      "start": 18485,
+      "end": 18499,
+      "old": "788-925-546 94",
+      "new": "[SNILS_104]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18563-18577",
+      "typ": "SNILS",
+      "start": 18563,
+      "end": 18577,
+      "old": "590-515-186 96",
+      "new": "[SNILS_105]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18628-18639",
+      "typ": "SNILS",
+      "start": 18628,
+      "end": 18639,
+      "old": "79328419487",
+      "new": "[SNILS_106]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:18676-18726",
+      "typ": "ADDR",
+      "start": 18676,
+      "end": 18726,
+      "old": "с. Санкт-Петербург, улица Гоголя, дом 3 строение 1",
+      "new": "[ADDR_010]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:18750-18762",
+      "typ": "PER",
+      "start": 18750,
+      "end": 18762,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:18818-18830",
+      "typ": "PER",
+      "start": 18818,
+      "end": 18830,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:18886-18898",
+      "typ": "PER",
+      "start": 18886,
+      "end": 18898,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:18985-18999",
+      "typ": "SNILS",
+      "start": 18985,
+      "end": 18999,
+      "old": "291-486-528 10",
+      "new": "[SNILS_107]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:19034-19125",
+      "typ": "ADDR",
+      "start": 19034,
+      "end": 19125,
+      "old": "посёлок Тверь, ul. Lenina, d. 4 kv. 8 прошла встреча отдела.\nВ пос. Рим, ул Ломоносова д 12",
+      "new": "[ADDR_011]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:19244-19258",
+      "typ": "SNILS",
+      "start": 19244,
+      "end": 19258,
+      "old": "332-214-188 24",
+      "new": "[SNILS_108]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:19370-19382",
+      "typ": "PER",
+      "start": 19370,
+      "end": 19382,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:19492-19506",
+      "typ": "SNILS",
+      "start": 19492,
+      "end": 19506,
+      "old": "222-927-065 56",
+      "new": "[SNILS_109]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:19539-19551",
+      "typ": "PER",
+      "start": 19539,
+      "end": 19551,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:19607-19619",
+      "typ": "PER",
+      "start": 19607,
+      "end": 19619,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:19675-19688",
+      "typ": "PER",
+      "start": 19675,
+      "end": 19688,
+      "old": "Роман Кравцов",
+      "new": "[PER_016]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:19748-19763",
+      "typ": "PHONE",
+      "start": 19748,
+      "end": 19763,
+      "old": "8 996 866 67 39",
+      "new": "[PHONE_071]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:19815-19830",
+      "typ": "PHONE",
+      "start": 19815,
+      "end": 19830,
+      "old": "7-960-955-34-57",
+      "new": "[PHONE_072]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:19896-19910",
+      "typ": "SNILS",
+      "start": 19896,
+      "end": 19910,
+      "old": "468-862-392 53",
+      "new": "[SNILS_110]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:20039-20057",
+      "typ": "PHONE",
+      "start": 20039,
+      "end": 20057,
+      "old": "+7 (906) 756-71-57",
+      "new": "[PHONE_073]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:20092-20104",
+      "typ": "PER",
+      "start": 20092,
+      "end": 20104,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:20286-20301",
+      "typ": "PHONE",
+      "start": 20286,
+      "end": 20301,
+      "old": "8 957 625 28 65",
+      "new": "[PHONE_074]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:20446-20460",
+      "typ": "SNILS",
+      "start": 20446,
+      "end": 20460,
+      "old": "506-068-536 75",
+      "new": "[SNILS_111]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:20568-20583",
+      "typ": "PHONE",
+      "start": 20568,
+      "end": 20583,
+      "old": "8 912 959 93 52",
+      "new": "[PHONE_075]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:20752-20764",
+      "typ": "PER",
+      "start": 20752,
+      "end": 20764,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:20851-20865",
+      "typ": "SNILS",
+      "start": 20851,
+      "end": 20865,
+      "old": "790-104-328 77",
+      "new": "[SNILS_112]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:20898-20910",
+      "typ": "PER",
+      "start": 20898,
+      "end": 20910,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:20996-21007",
+      "typ": "PER",
+      "start": 20996,
+      "end": 21007,
+      "old": "И.О. Петров",
+      "new": "[PER_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:21237-21265",
+      "typ": "PHONE",
+      "start": 21237,
+      "end": 21265,
+      "old": "+7 (954) 101-88-55 доб. 3951",
+      "new": "[PHONE_076]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:21331-21345",
+      "typ": "SNILS",
+      "start": 21331,
+      "end": 21345,
+      "old": "218-518-888 96",
+      "new": "[SNILS_113]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:21418-21429",
+      "typ": "SNILS",
+      "start": 21418,
+      "end": 21429,
+      "old": "79328651255",
+      "new": "[SNILS_114]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:21464-21476",
+      "typ": "PER",
+      "start": 21464,
+      "end": 21476,
+      "old": "Вера Лебедев",
+      "new": "[PER_017]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:21567-21582",
+      "typ": "PHONE",
+      "start": 21567,
+      "end": 21582,
+      "old": "8 982 279 97 69",
+      "new": "[PHONE_077]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:21696-21705",
+      "typ": "PER",
+      "start": 21696,
+      "end": 21705,
+      "old": "Май Батов",
+      "new": "[PER_018]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:21858-21872",
+      "typ": "SNILS",
+      "start": 21858,
+      "end": 21872,
+      "old": "043-030-548 99",
+      "new": "[SNILS_115]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:21936-21950",
+      "typ": "SNILS",
+      "start": 21936,
+      "end": 21950,
+      "old": "874-034-505 05",
+      "new": "[SNILS_116]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:22000-22015",
+      "typ": "PHONE",
+      "start": 22000,
+      "end": 22015,
+      "old": "7-915-918-57-65",
+      "new": "[PHONE_078]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22081-22095",
+      "typ": "SNILS",
+      "start": 22081,
+      "end": 22095,
+      "old": "527-758-416 27",
+      "new": "[SNILS_117]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22214-22225",
+      "typ": "SNILS",
+      "start": 22214,
+      "end": 22225,
+      "old": "79412052051",
+      "new": "[SNILS_118]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22291-22305",
+      "typ": "SNILS",
+      "start": 22291,
+      "end": 22305,
+      "old": "962-757-059 55",
+      "new": "[SNILS_119]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22369-22383",
+      "typ": "SNILS",
+      "start": 22369,
+      "end": 22383,
+      "old": "401-658-202 43",
+      "new": "[SNILS_120]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:22604-22616",
+      "typ": "PER",
+      "start": 22604,
+      "end": 22616,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:22689-22704",
+      "typ": "PHONE",
+      "start": 22689,
+      "end": 22704,
+      "old": "8 946 492 82 14",
+      "new": "[PHONE_079]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:22739-22751",
+      "typ": "PER",
+      "start": 22739,
+      "end": 22751,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22838-22852",
+      "typ": "SNILS",
+      "start": 22838,
+      "end": 22852,
+      "old": "557-192-856 31",
+      "new": "[SNILS_121]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:22902-22917",
+      "typ": "PHONE",
+      "start": 22902,
+      "end": 22917,
+      "old": "8 983 385 41 24",
+      "new": "[PHONE_080]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:22983-22997",
+      "typ": "SNILS",
+      "start": 22983,
+      "end": 22997,
+      "old": "868-144-739 52",
+      "new": "[SNILS_122]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:23047-23065",
+      "typ": "PHONE",
+      "start": 23047,
+      "end": 23065,
+      "old": "+7 (988) 602-35-25",
+      "new": "[PHONE_081]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23131-23145",
+      "typ": "SNILS",
+      "start": 23131,
+      "end": 23145,
+      "old": "271-551-884 83",
+      "new": "[SNILS_123]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23196-23207",
+      "typ": "SNILS",
+      "start": 23196,
+      "end": 23207,
+      "old": "79208289991",
+      "new": "[SNILS_124]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23295-23309",
+      "typ": "SNILS",
+      "start": 23295,
+      "end": 23309,
+      "old": "058-957-829 38",
+      "new": "[SNILS_125]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:23405-23417",
+      "typ": "PER",
+      "start": 23405,
+      "end": 23417,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:23473-23485",
+      "typ": "PER",
+      "start": 23473,
+      "end": 23485,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23572-23586",
+      "typ": "SNILS",
+      "start": 23572,
+      "end": 23586,
+      "old": "866-912-517 51",
+      "new": "[SNILS_126]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23650-23664",
+      "typ": "SNILS",
+      "start": 23650,
+      "end": 23664,
+      "old": "852-892-268 51",
+      "new": "[SNILS_127]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:23854-23882",
+      "typ": "PHONE",
+      "start": 23854,
+      "end": 23882,
+      "old": "+7 (921) 265-51-38 доб. 5679",
+      "new": "[PHONE_082]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:23935-23946",
+      "typ": "SNILS",
+      "start": 23935,
+      "end": 23946,
+      "old": "79103563591",
+      "new": "[SNILS_128]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:23981-23993",
+      "typ": "PER",
+      "start": 23981,
+      "end": 23993,
+      "old": "И.О. Кравцов",
+      "new": "[PER_006]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:24310-24322",
+      "typ": "PER",
+      "start": 24310,
+      "end": 24322,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:24395-24410",
+      "typ": "PHONE",
+      "start": 24395,
+      "end": 24410,
+      "old": "7-961-350-97-61",
+      "new": "[PHONE_083]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24547-24561",
+      "typ": "SNILS",
+      "start": 24547,
+      "end": 24561,
+      "old": "773-592-555 51",
+      "new": "[SNILS_129]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24625-24639",
+      "typ": "SNILS",
+      "start": 24625,
+      "end": 24639,
+      "old": "258-815-371 09",
+      "new": "[SNILS_130]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24690-24701",
+      "typ": "SNILS",
+      "start": 24690,
+      "end": 24701,
+      "old": "79573532822",
+      "new": "[SNILS_131]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24767-24781",
+      "typ": "SNILS",
+      "start": 24767,
+      "end": 24781,
+      "old": "963-259-532 44",
+      "new": "[SNILS_132]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24845-24859",
+      "typ": "SNILS",
+      "start": 24845,
+      "end": 24859,
+      "old": "877-470-168 57",
+      "new": "[SNILS_133]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:24923-24937",
+      "typ": "SNILS",
+      "start": 24923,
+      "end": 24937,
+      "old": "339-500-479 78",
+      "new": "[SNILS_134]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:25049-25061",
+      "typ": "PER",
+      "start": 25049,
+      "end": 25061,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:25117-25129",
+      "typ": "PER",
+      "start": 25117,
+      "end": 25129,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:25216-25230",
+      "typ": "SNILS",
+      "start": 25216,
+      "end": 25230,
+      "old": "480-162-456 71",
+      "new": "[SNILS_135]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:25280-25295",
+      "typ": "PHONE",
+      "start": 25280,
+      "end": 25295,
+      "old": "8 905 510 16 82",
+      "new": "[PHONE_084]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:25347-25362",
+      "typ": "PHONE",
+      "start": 25347,
+      "end": 25362,
+      "old": "7-970-395-19-59",
+      "new": "[PHONE_085]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:25538-25552",
+      "typ": "SNILS",
+      "start": 25538,
+      "end": 25552,
+      "old": "558-523-986 40",
+      "new": "[SNILS_136]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:25631-25659",
+      "typ": "PHONE",
+      "start": 25631,
+      "end": 25659,
+      "old": "+7 (960) 631-68-29 доб. 9942",
+      "new": "[PHONE_086]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:25776-25787",
+      "typ": "SNILS",
+      "start": 25776,
+      "end": 25787,
+      "old": "79205028848",
+      "new": "[SNILS_137]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:25869-25887",
+      "typ": "PHONE",
+      "start": 25869,
+      "end": 25887,
+      "old": "+7 (960) 935-12-57",
+      "new": "[PHONE_087]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:25953-25967",
+      "typ": "SNILS",
+      "start": 25953,
+      "end": 25967,
+      "old": "940-974-993 64",
+      "new": "[SNILS_138]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26000-26012",
+      "typ": "PER",
+      "start": 26000,
+      "end": 26012,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26137-26149",
+      "typ": "PER",
+      "start": 26137,
+      "end": 26149,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26205-26217",
+      "typ": "PER",
+      "start": 26205,
+      "end": 26217,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26294-26306",
+      "typ": "PER",
+      "start": 26294,
+      "end": 26306,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:26364-26406",
+      "typ": "ADDR",
+      "start": 26364,
+      "end": 26406,
+      "old": "обл. Казань, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:26450-26465",
+      "typ": "PHONE",
+      "start": 26450,
+      "end": 26465,
+      "old": "7-953-255-62-98",
+      "new": "[PHONE_088]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:26540-26555",
+      "typ": "PHONE",
+      "start": 26540,
+      "end": 26555,
+      "old": "8 984 589 77 58",
+      "new": "[PHONE_089]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:26621-26635",
+      "typ": "SNILS",
+      "start": 26621,
+      "end": 26635,
+      "old": "858-549-733 82",
+      "new": "[SNILS_139]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:26685-26700",
+      "typ": "PHONE",
+      "start": 26685,
+      "end": 26700,
+      "old": "8 971 405 38 48",
+      "new": "[PHONE_090]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26735-26747",
+      "typ": "PER",
+      "start": 26735,
+      "end": 26747,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:26803-26815",
+      "typ": "PER",
+      "start": 26803,
+      "end": 26815,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:26902-26916",
+      "typ": "SNILS",
+      "start": 26902,
+      "end": 26916,
+      "old": "575-844-198 47",
+      "new": "[SNILS_140]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:26980-26994",
+      "typ": "SNILS",
+      "start": 26980,
+      "end": 26994,
+      "old": "652-404-157 67",
+      "new": "[SNILS_141]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:27027-27039",
+      "typ": "PER",
+      "start": 27027,
+      "end": 27039,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:27113-27124",
+      "typ": "SNILS",
+      "start": 27113,
+      "end": 27124,
+      "old": "79955903735",
+      "new": "[SNILS_142]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:27222-27233",
+      "typ": "PER",
+      "start": 27222,
+      "end": 27233,
+      "old": "Саша Иванов",
+      "new": "[PER_019]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:27278-27320",
+      "typ": "ADDR",
+      "start": 27278,
+      "end": 27320,
+      "old": "обл. Тверь, улица Гоголя, дом 3 строение 1",
+      "new": "[ADDR_013]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:27346-27397",
+      "typ": "ADDR",
+      "start": 27346,
+      "end": 27397,
+      "old": "край Санкт-Петербург, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_014]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:27424-27435",
+      "typ": "PER",
+      "start": 27424,
+      "end": 27435,
+      "old": "Елена Юрьев",
+      "new": "[PER_020]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:27509-27523",
+      "typ": "SNILS",
+      "start": 27509,
+      "end": 27523,
+      "old": "734-540-193 88",
+      "new": "[SNILS_143]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:27640-27652",
+      "typ": "PER",
+      "start": 27640,
+      "end": 27652,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:27804-27822",
+      "typ": "PHONE",
+      "start": 27804,
+      "end": 27822,
+      "old": "+7 (904) 109-48-82",
+      "new": "[PHONE_091]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:27874-27889",
+      "typ": "PHONE",
+      "start": 27874,
+      "end": 27889,
+      "old": "7-936-565-92-79",
+      "new": "[PHONE_092]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:27924-27945",
+      "typ": "PER",
+      "start": 27924,
+      "end": 27945,
+      "old": "Максим Сидоров-Петров",
+      "new": "[PER_021]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:28005-28020",
+      "typ": "PHONE",
+      "start": 28005,
+      "end": 28020,
+      "old": "7-924-928-24-52",
+      "new": "[PHONE_093]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:28055-28067",
+      "typ": "PER",
+      "start": 28055,
+      "end": 28067,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:28140-28168",
+      "typ": "PHONE",
+      "start": 28140,
+      "end": 28168,
+      "old": "+7 (991) 290-11-53 доб. 4843",
+      "new": "[PHONE_094]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:28203-28215",
+      "typ": "PER",
+      "start": 28203,
+      "end": 28215,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:28355-28368",
+      "typ": "PER",
+      "start": 28355,
+      "end": 28368,
+      "old": "Мария Кравцов",
+      "new": "[PER_022]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:28490-28502",
+      "typ": "PER",
+      "start": 28490,
+      "end": 28502,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:28589-28603",
+      "typ": "SNILS",
+      "start": 28589,
+      "end": 28603,
+      "old": "685-161-227 08",
+      "new": "[SNILS_144]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:28653-28668",
+      "typ": "PHONE",
+      "start": 28653,
+      "end": 28668,
+      "old": "7-931-106-43-59",
+      "new": "[PHONE_095]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:28800-28811",
+      "typ": "SNILS",
+      "start": 28800,
+      "end": 28811,
+      "old": "79424098483",
+      "new": "[SNILS_145]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:28846-28858",
+      "typ": "PER",
+      "start": 28846,
+      "end": 28858,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:28931-28946",
+      "typ": "PHONE",
+      "start": 28931,
+      "end": 28946,
+      "old": "7-988-341-17-95",
+      "new": "[PHONE_096]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:28998-29016",
+      "typ": "PHONE",
+      "start": 28998,
+      "end": 29016,
+      "old": "+7 (920) 515-97-74",
+      "new": "[PHONE_097]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:29051-29063",
+      "typ": "PER",
+      "start": 29051,
+      "end": 29063,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:29136-29151",
+      "typ": "PHONE",
+      "start": 29136,
+      "end": 29151,
+      "old": "7-947-729-38-38",
+      "new": "[PHONE_098]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:29186-29197",
+      "typ": "PER",
+      "start": 29186,
+      "end": 29197,
+      "old": "Роман Батов",
+      "new": "[PER_023]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:29341-29353",
+      "typ": "PER",
+      "start": 29341,
+      "end": 29353,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:29488-29498",
+      "typ": "PER",
+      "start": 29488,
+      "end": 29498,
+      "old": "Саша Юрьев",
+      "new": "[PER_024]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:29667-29695",
+      "typ": "PHONE",
+      "start": 29667,
+      "end": 29695,
+      "old": "+7 (909) 677-24-17 доб. 8982",
+      "new": "[PHONE_099]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:29730-29742",
+      "typ": "PER",
+      "start": 29730,
+      "end": 29742,
+      "old": "Макс Сидоров",
+      "new": "[PER_025]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:29954-29968",
+      "typ": "SNILS",
+      "start": 29954,
+      "end": 29968,
+      "old": "286-790-874 51",
+      "new": "[SNILS_146]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30001-30013",
+      "typ": "PER",
+      "start": 30001,
+      "end": 30013,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30123-30135",
+      "typ": "PER",
+      "start": 30123,
+      "end": 30135,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30191-30201",
+      "typ": "PER",
+      "start": 30191,
+      "end": 30201,
+      "old": "Май Иванов",
+      "new": "[PER_005]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:30275-30289",
+      "typ": "SNILS",
+      "start": 30275,
+      "end": 30289,
+      "old": "518-017-046 55",
+      "new": "[SNILS_147]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30322-30337",
+      "typ": "PER",
+      "start": 30322,
+      "end": 30337,
+      "old": "Надежда Лебедев",
+      "new": "[PER_015]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30380-30392",
+      "typ": "PER",
+      "start": 30380,
+      "end": 30392,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30448-30460",
+      "typ": "PER",
+      "start": 30448,
+      "end": 30460,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30516-30528",
+      "typ": "PER",
+      "start": 30516,
+      "end": 30528,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:30615-30629",
+      "typ": "SNILS",
+      "start": 30615,
+      "end": 30629,
+      "old": "567-661-825 43",
+      "new": "[SNILS_148]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30760-30772",
+      "typ": "PER",
+      "start": 30760,
+      "end": 30772,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:30828-30840",
+      "typ": "PER",
+      "start": 30828,
+      "end": 30840,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:31043-31055",
+      "typ": "PER",
+      "start": 31043,
+      "end": 31055,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:31242-31253",
+      "typ": "PER",
+      "start": 31242,
+      "end": 31253,
+      "old": "Женя Петров",
+      "new": "[PER_026]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:31440-31454",
+      "typ": "SNILS",
+      "start": 31440,
+      "end": 31454,
+      "old": "383-028-439 80",
+      "new": "[SNILS_149]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:31505-31516",
+      "typ": "SNILS",
+      "start": 31505,
+      "end": 31516,
+      "old": "79737129651",
+      "new": "[SNILS_150]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:31642-31656",
+      "typ": "SNILS",
+      "start": 31642,
+      "end": 31656,
+      "old": "440-892-687 08",
+      "new": "[SNILS_151]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:31755-31770",
+      "typ": "PHONE",
+      "start": 31755,
+      "end": 31770,
+      "old": "7-989-526-62-29",
+      "new": "[PHONE_100]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:31805-31824",
+      "typ": "PER",
+      "start": 31805,
+      "end": 31824,
+      "old": "Макс Сидоров-Петров",
+      "new": "[PER_027]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:32004-32016",
+      "typ": "PER",
+      "start": 32004,
+      "end": 32016,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:32072-32084",
+      "typ": "PER",
+      "start": 32072,
+      "end": 32084,
+      "old": "Роман Иванов",
+      "new": "[PER_028]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:32167-32178",
+      "typ": "SNILS",
+      "start": 32167,
+      "end": 32178,
+      "old": "79264389220",
+      "new": "[SNILS_152]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:32290-32308",
+      "typ": "PHONE",
+      "start": 32290,
+      "end": 32308,
+      "old": "+7 (948) 789-87-87",
+      "new": "[PHONE_101]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:32432-32446",
+      "typ": "SNILS",
+      "start": 32432,
+      "end": 32446,
+      "old": "354-033-173 41",
+      "new": "[SNILS_153]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:32479-32491",
+      "typ": "PER",
+      "start": 32479,
+      "end": 32491,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:32588-32599",
+      "typ": "SNILS",
+      "start": 32588,
+      "end": 32599,
+      "old": "79485777893",
+      "new": "[SNILS_154]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:32651-32666",
+      "typ": "PHONE",
+      "start": 32651,
+      "end": 32666,
+      "old": "7-946-625-73-69",
+      "new": "[PHONE_102]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:32876-32903",
+      "typ": "PHONE",
+      "start": 32876,
+      "end": 32903,
+      "old": "+7 (926) 479-50-62 доб. 759",
+      "new": "[PHONE_103]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33017-33031",
+      "typ": "PER",
+      "start": 33017,
+      "end": 33031,
+      "old": "Надежда Иванов",
+      "new": "[PER_029]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:33091-33106",
+      "typ": "PHONE",
+      "start": 33091,
+      "end": 33106,
+      "old": "8 970 698 84 63",
+      "new": "[PHONE_104]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:33239-33253",
+      "typ": "SNILS",
+      "start": 33239,
+      "end": 33253,
+      "old": "937-854-777 83",
+      "new": "[SNILS_155]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33286-33298",
+      "typ": "PER",
+      "start": 33286,
+      "end": 33298,
+      "old": "Иван Сидоров",
+      "new": "[PER_030]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33341-33360",
+      "typ": "PER",
+      "start": 33341,
+      "end": 33360,
+      "old": "Макс Сидоров-Петров",
+      "new": "[PER_027]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33403-33413",
+      "typ": "PER",
+      "start": 33403,
+      "end": 33413,
+      "old": "Макс Юрьев",
+      "new": "[PER_031]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33606-33618",
+      "typ": "PER",
+      "start": 33606,
+      "end": 33618,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33807-33819",
+      "typ": "PER",
+      "start": 33807,
+      "end": 33819,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:33875-33884",
+      "typ": "PER",
+      "start": 33875,
+      "end": 33884,
+      "old": "Май Батов",
+      "new": "[PER_018]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:34020-34032",
+      "typ": "PER",
+      "start": 34020,
+      "end": 34032,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:34166-34181",
+      "typ": "PHONE",
+      "start": 34166,
+      "end": 34181,
+      "old": "8 968 393 12 74",
+      "new": "[PHONE_105]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:34277-34289",
+      "typ": "PER",
+      "start": 34277,
+      "end": 34289,
+      "old": "Женя Кравцов",
+      "new": "[PER_032]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:34444-34456",
+      "typ": "PER",
+      "start": 34444,
+      "end": 34456,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:34591-34603",
+      "typ": "PER",
+      "start": 34591,
+      "end": 34603,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:34827-34841",
+      "typ": "SNILS",
+      "start": 34827,
+      "end": 34841,
+      "old": "870-021-765 79",
+      "new": "[SNILS_156]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:34975-34987",
+      "typ": "PER",
+      "start": 34975,
+      "end": 34987,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:35073-35085",
+      "typ": "PER",
+      "start": 35073,
+      "end": 35085,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:35159-35170",
+      "typ": "SNILS",
+      "start": 35159,
+      "end": 35170,
+      "old": "79696779414",
+      "new": "[SNILS_157]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:35282-35320",
+      "typ": "ADDR",
+      "start": 35282,
+      "end": 35320,
+      "old": "р-н Томск, проспект Мира, дом 10, корп",
+      "new": "[ADDR_015]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:35379-35391",
+      "typ": "PER",
+      "start": 35379,
+      "end": 35391,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:35501-35513",
+      "typ": "PER",
+      "start": 35501,
+      "end": 35513,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:35587-35598",
+      "typ": "SNILS",
+      "start": 35587,
+      "end": 35598,
+      "old": "79062006539",
+      "new": "[SNILS_158]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:35775-35789",
+      "typ": "SNILS",
+      "start": 35775,
+      "end": 35789,
+      "old": "735-866-296 52",
+      "new": "[SNILS_159]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:35887-35932",
+      "typ": "ADDR",
+      "start": 35887,
+      "end": 35932,
+      "old": "Республика Томск, проспект Мира, дом 10, корп",
+      "new": "[ADDR_016]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:35959-35971",
+      "typ": "PER",
+      "start": 35959,
+      "end": 35971,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:36106-36118",
+      "typ": "PER",
+      "start": 36106,
+      "end": 36118,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:36248-36259",
+      "typ": "SNILS",
+      "start": 36248,
+      "end": 36259,
+      "old": "79131931049",
+      "new": "[SNILS_160]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:36390-36405",
+      "typ": "PHONE",
+      "start": 36390,
+      "end": 36405,
+      "old": "7-913-235-21-33",
+      "new": "[PHONE_106]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:36591-36605",
+      "typ": "SNILS",
+      "start": 36591,
+      "end": 36605,
+      "old": "183-982-622 18",
+      "new": "[SNILS_161]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:36655-36670",
+      "typ": "PHONE",
+      "start": 36655,
+      "end": 36670,
+      "old": "8 938 374 73 28",
+      "new": "[PHONE_107]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:36736-36750",
+      "typ": "SNILS",
+      "start": 36736,
+      "end": 36750,
+      "old": "464-715-437 02",
+      "new": "[SNILS_162]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:37063-37078",
+      "typ": "PHONE",
+      "start": 37063,
+      "end": 37078,
+      "old": "8 956 442 65 93",
+      "new": "[PHONE_108]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:37131-37142",
+      "typ": "SNILS",
+      "start": 37131,
+      "end": 37142,
+      "old": "79417179835",
+      "new": "[SNILS_163]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:37250-37265",
+      "typ": "PHONE",
+      "start": 37250,
+      "end": 37265,
+      "old": "8 994 811 91 72",
+      "new": "[PHONE_109]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:37317-37345",
+      "typ": "PHONE",
+      "start": 37317,
+      "end": 37345,
+      "old": "+7 (948) 387-60-56 доб. 1875",
+      "new": "[PHONE_110]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:37380-37392",
+      "typ": "PER",
+      "start": 37380,
+      "end": 37392,
+      "old": "Макс Сидоров",
+      "new": "[PER_025]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:37435-37447",
+      "typ": "PER",
+      "start": 37435,
+      "end": 37447,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:37621-37636",
+      "typ": "PHONE",
+      "start": 37621,
+      "end": 37636,
+      "old": "8 988 170 62 96",
+      "new": "[PHONE_111]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:37671-37683",
+      "typ": "PER",
+      "start": 37671,
+      "end": 37683,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:37756-37771",
+      "typ": "PHONE",
+      "start": 37756,
+      "end": 37771,
+      "old": "7-930-358-94-29",
+      "new": "[PHONE_112]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:37992-38003",
+      "typ": "PER",
+      "start": 37992,
+      "end": 38003,
+      "old": "Рим Кравцов",
+      "new": "[PER_033]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38046-38058",
+      "typ": "PER",
+      "start": 38046,
+      "end": 38058,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38114-38126",
+      "typ": "PER",
+      "start": 38114,
+      "end": 38126,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38182-38194",
+      "typ": "PER",
+      "start": 38182,
+      "end": 38194,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:38281-38295",
+      "typ": "SNILS",
+      "start": 38281,
+      "end": 38295,
+      "old": "561-014-388 53",
+      "new": "[SNILS_164]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38438-38450",
+      "typ": "PER",
+      "start": 38438,
+      "end": 38450,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:38565-38579",
+      "typ": "SNILS",
+      "start": 38565,
+      "end": 38579,
+      "old": "146-112-545 29",
+      "new": "[SNILS_165]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:38643-38657",
+      "typ": "SNILS",
+      "start": 38643,
+      "end": 38657,
+      "old": "387-571-775 47",
+      "new": "[SNILS_166]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:38763-38790",
+      "typ": "ADDR",
+      "start": 38763,
+      "end": 38790,
+      "old": "пос. Рим, пр-кт Победы, д 1",
+      "new": "[ADDR_017]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38814-38826",
+      "typ": "PER",
+      "start": 38814,
+      "end": 38826,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:38882-38896",
+      "typ": "PER",
+      "start": 38882,
+      "end": 38896,
+      "old": "Максим Сидоров",
+      "new": "[PER_034]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:38992-39006",
+      "typ": "SNILS",
+      "start": 38992,
+      "end": 39006,
+      "old": "226-609-379 79",
+      "new": "[SNILS_167]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:39070-39084",
+      "typ": "SNILS",
+      "start": 39070,
+      "end": 39084,
+      "old": "603-341-918 53",
+      "new": "[SNILS_168]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:39173-39185",
+      "typ": "PER",
+      "start": 39173,
+      "end": 39185,
+      "old": "Роман Петров",
+      "new": "[PER_035]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:39245-39273",
+      "typ": "PHONE",
+      "start": 39245,
+      "end": 39273,
+      "old": "+7 (985) 983-72-77 доб. 5144",
+      "new": "[PHONE_113]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:39339-39353",
+      "typ": "SNILS",
+      "start": 39339,
+      "end": 39353,
+      "old": "969-155-792 82",
+      "new": "[SNILS_169]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:39465-39477",
+      "typ": "PER",
+      "start": 39465,
+      "end": 39477,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:39533-39545",
+      "typ": "PER",
+      "start": 39533,
+      "end": 39545,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:39698-39709",
+      "typ": "SNILS",
+      "start": 39698,
+      "end": 39709,
+      "old": "79787042096",
+      "new": "[SNILS_170]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:39802-39812",
+      "typ": "PER",
+      "start": 39802,
+      "end": 39812,
+      "old": "Иван Батов",
+      "new": "[PER_036]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:39946-39960",
+      "typ": "SNILS",
+      "start": 39946,
+      "end": 39960,
+      "old": "929-662-782 71",
+      "new": "[SNILS_171]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:40039-40054",
+      "typ": "PHONE",
+      "start": 40039,
+      "end": 40054,
+      "old": "7-957-734-16-55",
+      "new": "[PHONE_114]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:40089-40099",
+      "typ": "PER",
+      "start": 40089,
+      "end": 40099,
+      "old": "Женя Серов",
+      "new": "[PER_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:40173-40187",
+      "typ": "SNILS",
+      "start": 40173,
+      "end": 40187,
+      "old": "887-676-772 14",
+      "new": "[SNILS_172]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:40222-40255",
+      "typ": "ADDR",
+      "start": 40222,
+      "end": 40255,
+      "old": "с. Владимир, пер. Чехова, д.7, кв",
+      "new": "[ADDR_018]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:40285-40317",
+      "typ": "ADDR",
+      "start": 40285,
+      "end": 40317,
+      "old": "край Томск, пер. Чехова, д.7, кв",
+      "new": "[ADDR_019]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:40362-40390",
+      "typ": "PHONE",
+      "start": 40362,
+      "end": 40390,
+      "old": "+7 (921) 899-68-82 доб. 8125",
+      "new": "[PHONE_115]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:40508-40522",
+      "typ": "SNILS",
+      "start": 40508,
+      "end": 40522,
+      "old": "836-134-074 92",
+      "new": "[SNILS_173]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:40572-40600",
+      "typ": "PHONE",
+      "start": 40572,
+      "end": 40600,
+      "old": "+7 (911) 549-25-40 доб. 3448",
+      "new": "[PHONE_116]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:40635-40647",
+      "typ": "PER",
+      "start": 40635,
+      "end": 40647,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:40720-40748",
+      "typ": "PHONE",
+      "start": 40720,
+      "end": 40748,
+      "old": "+7 (990) 724-90-64 доб. 2729",
+      "new": "[PHONE_117]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:40783-40793",
+      "typ": "PER",
+      "start": 40783,
+      "end": 40793,
+      "old": "Женя Серов",
+      "new": "[PER_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:40836-40847",
+      "typ": "PER",
+      "start": 40836,
+      "end": 40847,
+      "old": "Рим Кравцов",
+      "new": "[PER_033]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:40908-40919",
+      "typ": "SNILS",
+      "start": 40908,
+      "end": 40919,
+      "old": "79683878678",
+      "new": "[SNILS_174]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:40954-40966",
+      "typ": "PER",
+      "start": 40954,
+      "end": 40966,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:41039-41054",
+      "typ": "PHONE",
+      "start": 41039,
+      "end": 41054,
+      "old": "8 937 686 44 75",
+      "new": "[PHONE_118]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:41278-41292",
+      "typ": "SNILS",
+      "start": 41278,
+      "end": 41292,
+      "old": "042-232-536 07",
+      "new": "[SNILS_175]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:41356-41370",
+      "typ": "SNILS",
+      "start": 41356,
+      "end": 41370,
+      "old": "294-667-116 21",
+      "new": "[SNILS_176]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:41453-41471",
+      "typ": "PHONE",
+      "start": 41453,
+      "end": 41471,
+      "old": "+7 (974) 102-21-68",
+      "new": "[PHONE_119]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:41624-41652",
+      "typ": "PHONE",
+      "start": 41624,
+      "end": 41652,
+      "old": "+7 (936) 445-80-83 доб. 2149",
+      "new": "[PHONE_120]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:41797-41811",
+      "typ": "SNILS",
+      "start": 41797,
+      "end": 41811,
+      "old": "500-170-127 00",
+      "new": "[SNILS_177]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:41875-41889",
+      "typ": "SNILS",
+      "start": 41875,
+      "end": 41889,
+      "old": "063-242-415 27",
+      "new": "[SNILS_178]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:41939-41957",
+      "typ": "PHONE",
+      "start": 41939,
+      "end": 41957,
+      "old": "+7 (910) 480-95-93",
+      "new": "[PHONE_121]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:42023-42037",
+      "typ": "SNILS",
+      "start": 42023,
+      "end": 42037,
+      "old": "436-110-371 36",
+      "new": "[SNILS_179]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42125-42137",
+      "typ": "PER",
+      "start": 42125,
+      "end": 42137,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:42224-42238",
+      "typ": "SNILS",
+      "start": 42224,
+      "end": 42238,
+      "old": "005-162-713 04",
+      "new": "[SNILS_180]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:42302-42316",
+      "typ": "SNILS",
+      "start": 42302,
+      "end": 42316,
+      "old": "111-554-262 14",
+      "new": "[SNILS_181]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42349-42361",
+      "typ": "PER",
+      "start": 42349,
+      "end": 42361,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42417-42429",
+      "typ": "PER",
+      "start": 42417,
+      "end": 42429,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42659-42671",
+      "typ": "PER",
+      "start": 42659,
+      "end": 42671,
+      "old": "Вера Кравцов",
+      "new": "[PER_037]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42714-42726",
+      "typ": "PER",
+      "start": 42714,
+      "end": 42726,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:42813-42827",
+      "typ": "SNILS",
+      "start": 42813,
+      "end": 42827,
+      "old": "565-234-138 87",
+      "new": "[SNILS_182]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:42883-42897",
+      "typ": "PER",
+      "start": 42883,
+      "end": 42897,
+      "old": "Максим Кравцов",
+      "new": "[PER_038]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:43521-43532",
+      "typ": "SNILS",
+      "start": 43521,
+      "end": 43532,
+      "old": "79271401760",
+      "new": "[SNILS_183]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:43567-43579",
+      "typ": "PER",
+      "start": 43567,
+      "end": 43579,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:43635-43647",
+      "typ": "PER",
+      "start": 43635,
+      "end": 43647,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:43933-43945",
+      "typ": "PER",
+      "start": 43933,
+      "end": 43945,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44001-44013",
+      "typ": "PER",
+      "start": 44001,
+      "end": 44013,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44069-44081",
+      "typ": "PER",
+      "start": 44069,
+      "end": 44081,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:44251-44291",
+      "typ": "ADDR",
+      "start": 44251,
+      "end": 44291,
+      "old": "с. Калуга, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_020]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44318-44330",
+      "typ": "PER",
+      "start": 44318,
+      "end": 44330,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44386-44398",
+      "typ": "PER",
+      "start": 44386,
+      "end": 44398,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44454-44466",
+      "typ": "PER",
+      "start": 44454,
+      "end": 44466,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44522-44534",
+      "typ": "PER",
+      "start": 44522,
+      "end": 44534,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44590-44601",
+      "typ": "PER",
+      "start": 44590,
+      "end": 44601,
+      "old": "Вера Иванов",
+      "new": "[PER_039]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44644-44656",
+      "typ": "PER",
+      "start": 44644,
+      "end": 44656,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:44712-44728",
+      "typ": "PER",
+      "start": 44712,
+      "end": 44728,
+      "old": "Владимир Сидоров",
+      "new": "[PER_040]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:44802-44816",
+      "typ": "SNILS",
+      "start": 44802,
+      "end": 44816,
+      "old": "588-425-241 32",
+      "new": "[SNILS_184]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:45029-45043",
+      "typ": "SNILS",
+      "start": 45029,
+      "end": 45043,
+      "old": "785-079-252 49",
+      "new": "[SNILS_185]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:45093-45108",
+      "typ": "PHONE",
+      "start": 45093,
+      "end": 45108,
+      "old": "8 998 205 83 96",
+      "new": "[PHONE_122]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:45143-45155",
+      "typ": "PER",
+      "start": 45143,
+      "end": 45155,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:45264-45278",
+      "typ": "SNILS",
+      "start": 45264,
+      "end": 45278,
+      "old": "562-208-635 79",
+      "new": "[SNILS_186]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:45311-45322",
+      "typ": "PER",
+      "start": 45311,
+      "end": 45322,
+      "old": "Елена Батов",
+      "new": "[PER_041]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:45382-45400",
+      "typ": "PHONE",
+      "start": 45382,
+      "end": 45400,
+      "old": "+7 (934) 945-19-83",
+      "new": "[PHONE_123]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:45615-45643",
+      "typ": "PHONE",
+      "start": 45615,
+      "end": 45643,
+      "old": "+7 (999) 965-49-51 доб. 1425",
+      "new": "[PHONE_124]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:45709-45723",
+      "typ": "SNILS",
+      "start": 45709,
+      "end": 45723,
+      "old": "053-494-937 85",
+      "new": "[SNILS_187]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:45773-45788",
+      "typ": "PHONE",
+      "start": 45773,
+      "end": 45788,
+      "old": "8 975 605 35 79",
+      "new": "[PHONE_125]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:45945-45959",
+      "typ": "SNILS",
+      "start": 45945,
+      "end": 45959,
+      "old": "413-836-702 74",
+      "new": "[SNILS_188]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:45992-46004",
+      "typ": "PER",
+      "start": 45992,
+      "end": 46004,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:46078-46089",
+      "typ": "SNILS",
+      "start": 46078,
+      "end": 46089,
+      "old": "79111443976",
+      "new": "[SNILS_189]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:46155-46169",
+      "typ": "SNILS",
+      "start": 46155,
+      "end": 46169,
+      "old": "191-826-199 99",
+      "new": "[SNILS_190]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:46204-46242",
+      "typ": "ADDR",
+      "start": 46204,
+      "end": 46242,
+      "old": "р-н Тверь, проспект Мира, дом 10, корп",
+      "new": "[ADDR_021]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:46287-46298",
+      "typ": "SNILS",
+      "start": 46287,
+      "end": 46298,
+      "old": "79339715060",
+      "new": "[SNILS_191]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:46364-46378",
+      "typ": "SNILS",
+      "start": 46364,
+      "end": 46378,
+      "old": "431-329-121 38",
+      "new": "[SNILS_192]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:46411-46431",
+      "typ": "PER",
+      "start": 46411,
+      "end": 46431,
+      "old": "Роман Сидоров-Петров",
+      "new": "[PER_042]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:46491-46506",
+      "typ": "PHONE",
+      "start": 46491,
+      "end": 46506,
+      "old": "7-952-223-78-55",
+      "new": "[PHONE_126]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:46559-46570",
+      "typ": "SNILS",
+      "start": 46559,
+      "end": 46570,
+      "old": "79593712521",
+      "new": "[SNILS_193]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:46684-46696",
+      "typ": "PER",
+      "start": 46684,
+      "end": 46696,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:46752-46764",
+      "typ": "PER",
+      "start": 46752,
+      "end": 46764,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:46842-46854",
+      "typ": "PER",
+      "start": 46842,
+      "end": 46854,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:47053-47065",
+      "typ": "PER",
+      "start": 47053,
+      "end": 47065,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:47222-47232",
+      "typ": "PER",
+      "start": 47222,
+      "end": 47232,
+      "old": "Женя Серов",
+      "new": "[PER_012]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:47306-47320",
+      "typ": "SNILS",
+      "start": 47306,
+      "end": 47320,
+      "old": "519-941-013 98",
+      "new": "[SNILS_194]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:47353-47365",
+      "typ": "PER",
+      "start": 47353,
+      "end": 47365,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:47452-47466",
+      "typ": "SNILS",
+      "start": 47452,
+      "end": 47466,
+      "old": "215-107-029 07",
+      "new": "[SNILS_195]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:47530-47544",
+      "typ": "SNILS",
+      "start": 47530,
+      "end": 47544,
+      "old": "670-662-532 05",
+      "new": "[SNILS_196]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:47595-47606",
+      "typ": "SNILS",
+      "start": 47595,
+      "end": 47606,
+      "old": "79355562914",
+      "new": "[SNILS_197]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:47672-47686",
+      "typ": "SNILS",
+      "start": 47672,
+      "end": 47686,
+      "old": "687-014-626 14",
+      "new": "[SNILS_198]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:47779-47791",
+      "typ": "PER",
+      "start": 47779,
+      "end": 47791,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:48058-48072",
+      "typ": "SNILS",
+      "start": 48058,
+      "end": 48072,
+      "old": "598-564-205 58",
+      "new": "[SNILS_199]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:48157-48171",
+      "typ": "SNILS",
+      "start": 48157,
+      "end": 48171,
+      "old": "859-321-334 24",
+      "new": "[SNILS_200]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:48487-48502",
+      "typ": "PHONE",
+      "start": 48487,
+      "end": 48502,
+      "old": "7-972-677-28-82",
+      "new": "[PHONE_127]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:48717-48729",
+      "typ": "PER",
+      "start": 48717,
+      "end": 48729,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:48850-48900",
+      "typ": "ADDR",
+      "start": 48850,
+      "end": 48900,
+      "old": "город Санкт-Петербург, проспект Мира, дом 10, корп",
+      "new": "[ADDR_022]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:49068-49082",
+      "typ": "SNILS",
+      "start": 49068,
+      "end": 49082,
+      "old": "915-452-267 04",
+      "new": "[SNILS_201]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49115-49127",
+      "typ": "PER",
+      "start": 49115,
+      "end": 49127,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:49200-49215",
+      "typ": "PHONE",
+      "start": 49200,
+      "end": 49215,
+      "old": "8 922 824 81 98",
+      "new": "[PHONE_128]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49250-49262",
+      "typ": "PER",
+      "start": 49250,
+      "end": 49262,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:49364-49379",
+      "typ": "PHONE",
+      "start": 49364,
+      "end": 49379,
+      "old": "7-916-281-10-99",
+      "new": "[PHONE_129]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49697-49706",
+      "typ": "PER",
+      "start": 49697,
+      "end": 49706,
+      "old": "Май Серов",
+      "new": "[PER_043]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49749-49761",
+      "typ": "PER",
+      "start": 49749,
+      "end": 49761,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49817-49829",
+      "typ": "PER",
+      "start": 49817,
+      "end": 49829,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49885-49897",
+      "typ": "PER",
+      "start": 49885,
+      "end": 49897,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:49953-49965",
+      "typ": "PER",
+      "start": 49953,
+      "end": 49965,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:50038-50056",
+      "typ": "PHONE",
+      "start": 50038,
+      "end": 50056,
+      "old": "+7 (957) 111-43-36",
+      "new": "[PHONE_130]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:50108-50123",
+      "typ": "PHONE",
+      "start": 50108,
+      "end": 50123,
+      "old": "7-932-905-23-10",
+      "new": "[PHONE_131]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:50189-50203",
+      "typ": "SNILS",
+      "start": 50189,
+      "end": 50203,
+      "old": "626-765-861 39",
+      "new": "[SNILS_202]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:50346-50360",
+      "typ": "SNILS",
+      "start": 50346,
+      "end": 50360,
+      "old": "932-710-405 82",
+      "new": "[SNILS_203]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:50410-50425",
+      "typ": "PHONE",
+      "start": 50410,
+      "end": 50425,
+      "old": "8 913 175 53 31",
+      "new": "[PHONE_132]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:50460-50472",
+      "typ": "PER",
+      "start": 50460,
+      "end": 50472,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:50616-50629",
+      "typ": "PER",
+      "start": 50616,
+      "end": 50629,
+      "old": "Елена Сидоров",
+      "new": "[PER_044]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:50674-50716",
+      "typ": "ADDR",
+      "start": 50674,
+      "end": 50716,
+      "old": "р-н Москва, улица Гоголя, дом 3 строение 1",
+      "new": "[ADDR_023]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:50740-50751",
+      "typ": "PER",
+      "start": 50740,
+      "end": 50751,
+      "old": "Елена Батов",
+      "new": "[PER_041]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:51063-51075",
+      "typ": "PER",
+      "start": 51063,
+      "end": 51075,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:51131-51143",
+      "typ": "PER",
+      "start": 51131,
+      "end": 51143,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:51230-51241",
+      "typ": "PER",
+      "start": 51230,
+      "end": 51241,
+      "old": "И.О. Петров",
+      "new": "[PER_001]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:51315-51329",
+      "typ": "SNILS",
+      "start": 51315,
+      "end": 51329,
+      "old": "146-774-186 00",
+      "new": "[SNILS_204]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:51437-51452",
+      "typ": "PHONE",
+      "start": 51437,
+      "end": 51452,
+      "old": "7-923-556-15-43",
+      "new": "[PHONE_133]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:51504-51519",
+      "typ": "PHONE",
+      "start": 51504,
+      "end": 51519,
+      "old": "8 928 957 44 82",
+      "new": "[PHONE_134]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:51633-51645",
+      "typ": "PER",
+      "start": 51633,
+      "end": 51645,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:51701-51713",
+      "typ": "PER",
+      "start": 51701,
+      "end": 51713,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:51869-51883",
+      "typ": "SNILS",
+      "start": 51869,
+      "end": 51883,
+      "old": "938-068-687 62",
+      "new": "[SNILS_205]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:52026-52038",
+      "typ": "PER",
+      "start": 52026,
+      "end": 52038,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:52223-52235",
+      "typ": "PER",
+      "start": 52223,
+      "end": 52235,
+      "old": "Женя Сидоров",
+      "new": "[PER_045]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:52280-52315",
+      "typ": "ADDR",
+      "start": 52280,
+      "end": 52315,
+      "old": "Республика Тверь, пр-кт Победы, д 1",
+      "new": "[ADDR_024]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:52339-52352",
+      "typ": "PER",
+      "start": 52339,
+      "end": 52352,
+      "old": "Надежда Серов",
+      "new": "[PER_046]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:52581-52595",
+      "typ": "SNILS",
+      "start": 52581,
+      "end": 52595,
+      "old": "162-299-911 93",
+      "new": "[SNILS_206]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:52667-52682",
+      "typ": "PHONE",
+      "start": 52667,
+      "end": 52682,
+      "old": "7-949-770-72-83",
+      "new": "[PHONE_135]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:52789-52800",
+      "typ": "PER",
+      "start": 52789,
+      "end": 52800,
+      "old": "Пётр Иванов",
+      "new": "[PER_047]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:52874-52888",
+      "typ": "SNILS",
+      "start": 52874,
+      "end": 52888,
+      "old": "530-745-054 64",
+      "new": "[SNILS_207]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:52938-52953",
+      "typ": "PHONE",
+      "start": 52938,
+      "end": 52953,
+      "old": "8 935 963 72 99",
+      "new": "[PHONE_136]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:52988-52998",
+      "typ": "PER",
+      "start": 52988,
+      "end": 52998,
+      "old": "И.О. Батов",
+      "new": "[PER_048]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:53072-53086",
+      "typ": "SNILS",
+      "start": 53072,
+      "end": 53086,
+      "old": "546-913-736 21",
+      "new": "[SNILS_208]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:53119-53131",
+      "typ": "PER",
+      "start": 53119,
+      "end": 53131,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:53218-53232",
+      "typ": "SNILS",
+      "start": 53218,
+      "end": 53232,
+      "old": "850-821-486 06",
+      "new": "[SNILS_209]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:53265-53279",
+      "typ": "PER",
+      "start": 53265,
+      "end": 53279,
+      "old": "Максим Кравцов",
+      "new": "[PER_038]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:53324-53365",
+      "typ": "ADDR",
+      "start": 53324,
+      "end": 53365,
+      "old": "р-н Санкт-Петербург, пер. Чехова, д.7, кв",
+      "new": "[ADDR_025]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:53456-53516",
+      "typ": "ADDR",
+      "start": 53456,
+      "end": 53516,
+      "old": "УЛ. ЛЕНИНА 5-2.\nВ обл. Казань, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_026]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:53545-53573",
+      "typ": "ADDR",
+      "start": 53545,
+      "end": 53573,
+      "old": "с. Рим, пер. Чехова, д.7, кв",
+      "new": "[ADDR_027]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:53618-53636",
+      "typ": "PHONE",
+      "start": 53618,
+      "end": 53636,
+      "old": "+7 (959) 617-60-91",
+      "new": "[PHONE_137]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:53671-53690",
+      "typ": "PER",
+      "start": 53671,
+      "end": 53690,
+      "old": "Иван Сидоров-Петров",
+      "new": "[PER_049]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:53773-53784",
+      "typ": "SNILS",
+      "start": 53773,
+      "end": 53784,
+      "old": "79442674398",
+      "new": "[SNILS_210]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:53821-53862",
+      "typ": "ADDR",
+      "start": 53821,
+      "end": 53862,
+      "old": "пос. Тверь, ул. Ленина, д. 5 к.1 стр.2 кв",
+      "new": "[ADDR_028]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:53991-54003",
+      "typ": "PER",
+      "start": 53991,
+      "end": 54003,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:54090-54104",
+      "typ": "SNILS",
+      "start": 54090,
+      "end": 54104,
+      "old": "800-722-903 61",
+      "new": "[SNILS_211]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:54154-54169",
+      "typ": "PHONE",
+      "start": 54154,
+      "end": 54169,
+      "old": "7-977-924-49-92",
+      "new": "[PHONE_138]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:54235-54249",
+      "typ": "SNILS",
+      "start": 54235,
+      "end": 54249,
+      "old": "574-374-896 44",
+      "new": "[SNILS_212]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:54323-54334",
+      "typ": "SNILS",
+      "start": 54323,
+      "end": 54334,
+      "old": "79717628687",
+      "new": "[SNILS_213]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:54369-54381",
+      "typ": "PER",
+      "start": 54369,
+      "end": 54381,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:54513-54528",
+      "typ": "PHONE",
+      "start": 54513,
+      "end": 54528,
+      "old": "8 981 432 45 43",
+      "new": "[PHONE_139]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:54563-54577",
+      "typ": "PER",
+      "start": 54563,
+      "end": 54577,
+      "old": "Максим Лебедев",
+      "new": "[PER_050]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:54620-54631",
+      "typ": "PER",
+      "start": 54620,
+      "end": 54631,
+      "old": "Рим Лебедев",
+      "new": "[PER_051]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:54964-54978",
+      "typ": "SNILS",
+      "start": 54964,
+      "end": 54978,
+      "old": "446-660-993 22",
+      "new": "[SNILS_214]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:55028-55043",
+      "typ": "PHONE",
+      "start": 55028,
+      "end": 55043,
+      "old": "7-992-830-38-97",
+      "new": "[PHONE_140]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:55078-55090",
+      "typ": "PER",
+      "start": 55078,
+      "end": 55090,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:55163-55178",
+      "typ": "PHONE",
+      "start": 55163,
+      "end": 55178,
+      "old": "8 964 407 31 94",
+      "new": "[PHONE_141]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:55230-55245",
+      "typ": "PHONE",
+      "start": 55230,
+      "end": 55245,
+      "old": "8 912 582 26 43",
+      "new": "[PHONE_142]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:55280-55292",
+      "typ": "PER",
+      "start": 55280,
+      "end": 55292,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:55366-55377",
+      "typ": "SNILS",
+      "start": 55366,
+      "end": 55377,
+      "old": "79831913855",
+      "new": "[SNILS_215]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:55443-55457",
+      "typ": "SNILS",
+      "start": 55443,
+      "end": 55457,
+      "old": "554-947-170 30",
+      "new": "[SNILS_216]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:55569-55581",
+      "typ": "PER",
+      "start": 55569,
+      "end": 55581,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:55659-55671",
+      "typ": "PER",
+      "start": 55659,
+      "end": 55671,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:55758-55772",
+      "typ": "SNILS",
+      "start": 55758,
+      "end": 55772,
+      "old": "846-022-356 88",
+      "new": "[SNILS_217]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:55835-55853",
+      "typ": "PER",
+      "start": 55835,
+      "end": 55853,
+      "old": "Май Сидоров-Петров",
+      "new": "[PER_052]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:55913-55931",
+      "typ": "PHONE",
+      "start": 55913,
+      "end": 55931,
+      "old": "+7 (980) 281-50-91",
+      "new": "[PHONE_143]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:55997-56011",
+      "typ": "SNILS",
+      "start": 55997,
+      "end": 56011,
+      "old": "432-927-129 81",
+      "new": "[SNILS_218]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:56075-56089",
+      "typ": "SNILS",
+      "start": 56075,
+      "end": 56089,
+      "old": "666-760-083 33",
+      "new": "[SNILS_219]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56122-56134",
+      "typ": "PER",
+      "start": 56122,
+      "end": 56134,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:56207-56225",
+      "typ": "PHONE",
+      "start": 56207,
+      "end": 56225,
+      "old": "+7 (901) 429-77-34",
+      "new": "[PHONE_144]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56260-56272",
+      "typ": "PER",
+      "start": 56260,
+      "end": 56272,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56328-56340",
+      "typ": "PER",
+      "start": 56328,
+      "end": 56340,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56396-56406",
+      "typ": "PER",
+      "start": 56396,
+      "end": 56406,
+      "old": "Саша Батов",
+      "new": "[PER_053]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:56466-56494",
+      "typ": "PHONE",
+      "start": 56466,
+      "end": 56494,
+      "old": "+7 (939) 232-23-59 доб. 8256",
+      "new": "[PHONE_145]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:56546-56561",
+      "typ": "PHONE",
+      "start": 56546,
+      "end": 56561,
+      "old": "7-921-166-15-48",
+      "new": "[PHONE_146]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56596-56608",
+      "typ": "PER",
+      "start": 56596,
+      "end": 56608,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:56782-56797",
+      "typ": "PHONE",
+      "start": 56782,
+      "end": 56797,
+      "old": "8 996 292 31 61",
+      "new": "[PHONE_147]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:56893-56905",
+      "typ": "PER",
+      "start": 56893,
+      "end": 56905,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:57047-57075",
+      "typ": "PHONE",
+      "start": 57047,
+      "end": 57075,
+      "old": "+7 (991) 766-14-58 доб. 4200",
+      "new": "[PHONE_148]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:57216-57230",
+      "typ": "SNILS",
+      "start": 57216,
+      "end": 57230,
+      "old": "184-723-046 78",
+      "new": "[SNILS_220]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:57263-57275",
+      "typ": "PER",
+      "start": 57263,
+      "end": 57275,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:57418-57432",
+      "typ": "SNILS",
+      "start": 57418,
+      "end": 57432,
+      "old": "189-141-173 85",
+      "new": "[SNILS_221]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:57518-57532",
+      "typ": "SNILS",
+      "start": 57518,
+      "end": 57532,
+      "old": "420-873-753 80",
+      "new": "[SNILS_222]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:57567-57600",
+      "typ": "ADDR",
+      "start": 57567,
+      "end": 57600,
+      "old": "город Владимир, пр-кт Победы, д 1",
+      "new": "[ADDR_029]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:57725-57737",
+      "typ": "PER",
+      "start": 57725,
+      "end": 57737,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:57872-57890",
+      "typ": "PHONE",
+      "start": 57872,
+      "end": 57890,
+      "old": "+7 (933) 575-16-22",
+      "new": "[PHONE_149]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:58021-58039",
+      "typ": "PHONE",
+      "start": 58021,
+      "end": 58039,
+      "old": "+7 (946) 920-96-50",
+      "new": "[PHONE_150]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:58147-58159",
+      "typ": "PER",
+      "start": 58147,
+      "end": 58159,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:58215-58227",
+      "typ": "PER",
+      "start": 58215,
+      "end": 58227,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:58379-58393",
+      "typ": "SNILS",
+      "start": 58379,
+      "end": 58393,
+      "old": "941-552-166 02",
+      "new": "[SNILS_223]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:58457-58471",
+      "typ": "SNILS",
+      "start": 58457,
+      "end": 58471,
+      "old": "467-621-202 90",
+      "new": "[SNILS_224]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:58559-58571",
+      "typ": "PER",
+      "start": 58559,
+      "end": 58571,
+      "old": "Пётр Лебедев",
+      "new": "[PER_054]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:58631-58646",
+      "typ": "PHONE",
+      "start": 58631,
+      "end": 58646,
+      "old": "7-978-129-97-26",
+      "new": "[PHONE_151]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:58800-58812",
+      "typ": "PER",
+      "start": 58800,
+      "end": 58812,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:58947-58959",
+      "typ": "PER",
+      "start": 58947,
+      "end": 58959,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:59117-59145",
+      "typ": "PHONE",
+      "start": 59117,
+      "end": 59145,
+      "old": "+7 (984) 792-92-59 доб. 2445",
+      "new": "[PHONE_152]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:59233-59247",
+      "typ": "SNILS",
+      "start": 59233,
+      "end": 59247,
+      "old": "721-753-540 87",
+      "new": "[SNILS_225]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:59520-59534",
+      "typ": "SNILS",
+      "start": 59520,
+      "end": 59534,
+      "old": "608-801-994 09",
+      "new": "[SNILS_226]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:59748-59760",
+      "typ": "PER",
+      "start": 59748,
+      "end": 59760,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:59894-59905",
+      "typ": "SNILS",
+      "start": 59894,
+      "end": 59905,
+      "old": "79819194780",
+      "new": "[SNILS_227]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:59940-59952",
+      "typ": "PER",
+      "start": 59940,
+      "end": 59952,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:60079-60091",
+      "typ": "PER",
+      "start": 60079,
+      "end": 60091,
+      "old": "Елена Петров",
+      "new": "[PER_055]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:60151-60166",
+      "typ": "PHONE",
+      "start": 60151,
+      "end": 60166,
+      "old": "8 978 300 34 25",
+      "new": "[PHONE_153]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:60232-60246",
+      "typ": "SNILS",
+      "start": 60232,
+      "end": 60246,
+      "old": "351-609-177 69",
+      "new": "[SNILS_228]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:60279-60291",
+      "typ": "PER",
+      "start": 60279,
+      "end": 60291,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:60547-60561",
+      "typ": "SNILS",
+      "start": 60547,
+      "end": 60561,
+      "old": "693-465-472 47",
+      "new": "[SNILS_229]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:60594-60607",
+      "typ": "PER",
+      "start": 60594,
+      "end": 60607,
+      "old": "Елена Кравцов",
+      "new": "[PER_056]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:60650-60662",
+      "typ": "PER",
+      "start": 60650,
+      "end": 60662,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:60718-60730",
+      "typ": "PER",
+      "start": 60718,
+      "end": 60730,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:60857-60885",
+      "typ": "PHONE",
+      "start": 60857,
+      "end": 60885,
+      "old": "+7 (987) 453-96-26 доб. 2923",
+      "new": "[PHONE_154]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:61038-61083",
+      "typ": "ADDR",
+      "start": 61038,
+      "end": 61083,
+      "old": "УЛ. ЛЕНИНА 5-2.\nВ г. Пермь, пр-кт Победы, д 1",
+      "new": "[ADDR_030]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:61138-61152",
+      "typ": "SNILS",
+      "start": 61138,
+      "end": 61152,
+      "old": "200-342-442 86",
+      "new": "[SNILS_230]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:61248-61298",
+      "typ": "ADDR",
+      "start": 61248,
+      "end": 61298,
+      "old": "УЛ. ЛЕНИНА 5-2.\nВ край Томск, пер. Чехова, д.7, кв",
+      "new": "[ADDR_031]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:61425-61437",
+      "typ": "PER",
+      "start": 61425,
+      "end": 61437,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:61510-61538",
+      "typ": "PHONE",
+      "start": 61510,
+      "end": 61538,
+      "old": "+7 (970) 155-11-42 доб. 3337",
+      "new": "[PHONE_155]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:61920-61934",
+      "typ": "SNILS",
+      "start": 61920,
+      "end": 61934,
+      "old": "359-893-347 57",
+      "new": "[SNILS_231]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:61967-61978",
+      "typ": "PER",
+      "start": 61967,
+      "end": 61978,
+      "old": "Май Сидоров",
+      "new": "[PER_057]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:62021-62034",
+      "typ": "PER",
+      "start": 62021,
+      "end": 62034,
+      "old": "Максим Петров",
+      "new": "[PER_058]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:62108-62122",
+      "typ": "SNILS",
+      "start": 62108,
+      "end": 62122,
+      "old": "064-842-294 79",
+      "new": "[SNILS_232]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:62363-62375",
+      "typ": "PER",
+      "start": 62363,
+      "end": 62375,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:62533-62545",
+      "typ": "PER",
+      "start": 62533,
+      "end": 62545,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:62618-62646",
+      "typ": "PHONE",
+      "start": 62618,
+      "end": 62646,
+      "old": "+7 (967) 325-33-76 доб. 1127",
+      "new": "[PHONE_156]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:62768-62780",
+      "typ": "PER",
+      "start": 62768,
+      "end": 62780,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:62853-62868",
+      "typ": "PHONE",
+      "start": 62853,
+      "end": 62868,
+      "old": "7-942-469-47-37",
+      "new": "[PHONE_157]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:62925-62937",
+      "typ": "PER",
+      "start": 62925,
+      "end": 62937,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:63150-63162",
+      "typ": "PER",
+      "start": 63150,
+      "end": 63162,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:63235-63250",
+      "typ": "PHONE",
+      "start": 63235,
+      "end": 63250,
+      "old": "7-903-629-57-75",
+      "new": "[PHONE_158]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:63316-63330",
+      "typ": "SNILS",
+      "start": 63316,
+      "end": 63330,
+      "old": "043-581-128 41",
+      "new": "[SNILS_233]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:63471-63482",
+      "typ": "PER",
+      "start": 63471,
+      "end": 63482,
+      "old": "Елена Серов",
+      "new": "[PER_059]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:63592-63604",
+      "typ": "PER",
+      "start": 63592,
+      "end": 63604,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:63819-63831",
+      "typ": "PER",
+      "start": 63819,
+      "end": 63831,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:63905-63916",
+      "typ": "SNILS",
+      "start": 63905,
+      "end": 63916,
+      "old": "79041891916",
+      "new": "[SNILS_234]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:64004-64018",
+      "typ": "SNILS",
+      "start": 64004,
+      "end": 64018,
+      "old": "665-061-809 02",
+      "new": "[SNILS_235]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:64053-64088",
+      "typ": "ADDR",
+      "start": 64053,
+      "end": 64088,
+      "old": "посёлок Владимир, пр-кт Победы, д 1",
+      "new": "[ADDR_032]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:64151-64166",
+      "typ": "PHONE",
+      "start": 64151,
+      "end": 64166,
+      "old": "7-997-548-58-60",
+      "new": "[PHONE_159]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:64259-64271",
+      "typ": "PER",
+      "start": 64259,
+      "end": 64271,
+      "old": "Пётр Лебедев",
+      "new": "[PER_054]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:64504-64516",
+      "typ": "PER",
+      "start": 64504,
+      "end": 64516,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:64589-64607",
+      "typ": "PHONE",
+      "start": 64589,
+      "end": 64607,
+      "old": "+7 (901) 666-81-28",
+      "new": "[PHONE_160]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:64767-64778",
+      "typ": "PER",
+      "start": 64767,
+      "end": 64778,
+      "old": "Елена Юрьев",
+      "new": "[PER_020]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:65024-65042",
+      "typ": "PHONE",
+      "start": 65024,
+      "end": 65042,
+      "old": "+7 (924) 217-33-95",
+      "new": "[PHONE_161]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:65320-65332",
+      "typ": "PER",
+      "start": 65320,
+      "end": 65332,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:65419-65431",
+      "typ": "PER",
+      "start": 65419,
+      "end": 65431,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:65592-65607",
+      "typ": "PHONE",
+      "start": 65592,
+      "end": 65607,
+      "old": "8 978 775 49 98",
+      "new": "[PHONE_162]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:65663-65673",
+      "typ": "PER",
+      "start": 65663,
+      "end": 65673,
+      "old": "Саша Батов",
+      "new": "[PER_053]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:65716-65728",
+      "typ": "PER",
+      "start": 65716,
+      "end": 65728,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:65784-65796",
+      "typ": "PER",
+      "start": 65784,
+      "end": 65796,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:65883-65897",
+      "typ": "SNILS",
+      "start": 65883,
+      "end": 65897,
+      "old": "452-577-754 16",
+      "new": "[SNILS_236]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:65961-65975",
+      "typ": "SNILS",
+      "start": 65961,
+      "end": 65975,
+      "old": "812-914-283 93",
+      "new": "[SNILS_237]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:66025-66052",
+      "typ": "PHONE",
+      "start": 66025,
+      "end": 66052,
+      "old": "+7 (993) 741-19-19 доб. 315",
+      "new": "[PHONE_163]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:66087-66099",
+      "typ": "PER",
+      "start": 66087,
+      "end": 66099,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "ADDR:66157-66187",
+      "typ": "ADDR",
+      "start": 66157,
+      "end": 66187,
+      "old": "г. Тверь, пер. Чехова, д.7, кв",
+      "new": "[ADDR_033]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:66375-66387",
+      "typ": "PER",
+      "start": 66375,
+      "end": 66387,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:66461-66475",
+      "typ": "SNILS",
+      "start": 66461,
+      "end": 66475,
+      "old": "881-658-039 49",
+      "new": "[SNILS_238]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:66508-66520",
+      "typ": "PER",
+      "start": 66508,
+      "end": 66520,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:66576-66590",
+      "typ": "PER",
+      "start": 66576,
+      "end": 66590,
+      "old": "Максим Сидоров",
+      "new": "[PER_034]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:66664-66678",
+      "typ": "SNILS",
+      "start": 66664,
+      "end": 66678,
+      "old": "229-927-503 05",
+      "new": "[SNILS_239]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:66821-66835",
+      "typ": "SNILS",
+      "start": 66821,
+      "end": 66835,
+      "old": "314-530-385 37",
+      "new": "[SNILS_240]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:66899-66913",
+      "typ": "SNILS",
+      "start": 66899,
+      "end": 66913,
+      "old": "770-051-844 83",
+      "new": "[SNILS_241]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:67007-67021",
+      "typ": "SNILS",
+      "start": 67007,
+      "end": 67021,
+      "old": "591-846-386 45",
+      "new": "[SNILS_242]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:67071-67098",
+      "typ": "PHONE",
+      "start": 67071,
+      "end": 67098,
+      "old": "+7 (944) 598-71-87 доб. 118",
+      "new": "[PHONE_164]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:67133-67146",
+      "typ": "PER",
+      "start": 67133,
+      "end": 67146,
+      "old": "Роман Сидоров",
+      "new": "[PER_060]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:67243-67255",
+      "typ": "PER",
+      "start": 67243,
+      "end": 67255,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:67328-67356",
+      "typ": "PHONE",
+      "start": 67328,
+      "end": 67356,
+      "old": "+7 (927) 253-33-30 доб. 5944",
+      "new": "[PHONE_165]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:67391-67403",
+      "typ": "PER",
+      "start": 67391,
+      "end": 67403,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:67593-67605",
+      "typ": "PER",
+      "start": 67593,
+      "end": 67605,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:67722-67733",
+      "typ": "PER",
+      "start": 67722,
+      "end": 67733,
+      "old": "Мария Юрьев",
+      "new": "[PER_061]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:67886-67900",
+      "typ": "SNILS",
+      "start": 67886,
+      "end": 67900,
+      "old": "030-299-228 34",
+      "new": "[SNILS_243]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:68030-68048",
+      "typ": "PHONE",
+      "start": 68030,
+      "end": 68048,
+      "old": "+7 (923) 629-61-86",
+      "new": "[PHONE_166]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68083-68095",
+      "typ": "PER",
+      "start": 68083,
+      "end": 68095,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68151-68163",
+      "typ": "PER",
+      "start": 68151,
+      "end": 68163,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68219-68231",
+      "typ": "PER",
+      "start": 68219,
+      "end": 68231,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:68383-68398",
+      "typ": "PHONE",
+      "start": 68383,
+      "end": 68398,
+      "old": "7-910-321-67-87",
+      "new": "[PHONE_167]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68433-68443",
+      "typ": "PER",
+      "start": 68433,
+      "end": 68443,
+      "old": "Саша Серов",
+      "new": "[PER_062]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:68517-68531",
+      "typ": "SNILS",
+      "start": 68517,
+      "end": 68531,
+      "old": "929-298-425 68",
+      "new": "[SNILS_244]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:68595-68609",
+      "typ": "SNILS",
+      "start": 68595,
+      "end": 68609,
+      "old": "991-366-210 38",
+      "new": "[SNILS_245]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68642-68654",
+      "typ": "PER",
+      "start": 68642,
+      "end": 68654,
+      "old": "Максим Серов",
+      "new": "[PER_063]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68740-68752",
+      "typ": "PER",
+      "start": 68740,
+      "end": 68752,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:68808-68818",
+      "typ": "PER",
+      "start": 68808,
+      "end": 68818,
+      "old": "Макс Серов",
+      "new": "[PER_064]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:68944-68959",
+      "typ": "PHONE",
+      "start": 68944,
+      "end": 68959,
+      "old": "7-905-814-77-64",
+      "new": "[PHONE_168]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:69183-69197",
+      "typ": "SNILS",
+      "start": 69183,
+      "end": 69197,
+      "old": "599-162-473 51",
+      "new": "[SNILS_246]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:69392-69410",
+      "typ": "PHONE",
+      "start": 69392,
+      "end": 69410,
+      "old": "+7 (924) 105-10-83",
+      "new": "[PHONE_169]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:69499-69513",
+      "typ": "SNILS",
+      "start": 69499,
+      "end": 69513,
+      "old": "512-694-486 97",
+      "new": "[SNILS_247]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:69599-69613",
+      "typ": "SNILS",
+      "start": 69599,
+      "end": 69613,
+      "old": "887-258-874 94",
+      "new": "[SNILS_248]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:69663-69678",
+      "typ": "PHONE",
+      "start": 69663,
+      "end": 69678,
+      "old": "8 973 452 60 27",
+      "new": "[PHONE_170]",
+      "ok_slice": true
+    },
+    {
+      "id": "SNILS:69744-69758",
+      "typ": "SNILS",
+      "start": 69744,
+      "end": 69758,
+      "old": "213-865-890 86",
+      "new": "[SNILS_249]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:69791-69801",
+      "typ": "PER",
+      "start": 69791,
+      "end": 69801,
+      "old": "Пётр Юрьев",
+      "new": "[PER_065]",
+      "ok_slice": true
+    },
+    {
+      "id": "PHONE:69961-69989",
+      "typ": "PHONE",
+      "start": 69961,
+      "end": 69989,
+      "old": "+7 (910) 723-14-59 доб. 6574",
+      "new": "[PHONE_171]",
+      "ok_slice": true
+    },
+    {
+      "id": "PER:70024-70036",
+      "typ": "PER",
+      "start": 70024,
+      "end": 70036,
+      "old": "И.О. Сидоров",
+      "new": "[PER_002]",
+      "ok_slice": true
+    }
+  ]
+}
