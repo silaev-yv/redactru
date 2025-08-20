@@ -21,6 +21,12 @@ pip install -r requirements-gpu.txt
 - `ambiguous_corpus_ru.txt`
 - `ambiguous_narrative_ru.txt`
 
+После подготовки можно запустить гибридный анонимизатор:
+```powershell
+python src/cli/anonymize_hybrid.py examples/ambiguous_corpus_ru.txt --device cpu
+```
+Параметр `--device` позволяет выбрать `cpu` или `cuda` (по умолчанию определяется автоматически).
+
 ## Цели прототипа
 - Поиск кандидатов без изменения текста.
 - Ручная правка `candidates.csv/.json`.

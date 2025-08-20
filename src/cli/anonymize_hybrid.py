@@ -6,10 +6,12 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("path", help="входной файл .txt")
     p.add_argument("--out", default=None, help="выходной .jsonl со спанами")
+    p.add_argument("--device", choices=["cpu", "cuda"], default=None,
+                   help="устройство для NER: cpu или cuda (по умолчанию авто)")
     args = p.parse_args()
 
     text = Path(args.path).read_text(encoding="utf-8")
-    az = HybridAnonymizer(device="cuda")
+    az = HybridAnonymizer(device=args.device)
     spans = az.process(text)
 
     out = args.out or (Path(args.path).with_suffix(".hybrid.jsonl"))
