@@ -17,8 +17,34 @@ class Candidate:
     penalty: int = 0
 
 class HybridAnonymizer:
-    def __init__(self, device: str = "cuda"):
-        self.ner = StanzaNER(device=device, use_gpu=True)
+    def __init__(self, device: Optional[str] = None):
+        """Create anonymizer with optional device selection.
+
+        If ``device`` is not provided, GPU availability is detected
+        automatically. When a specific device is requested but not
+        available, the implementation falls back to CPU.
+        """
+        use_gpu = False
+        if device not in {"cpu", "cuda"}:
+            device = None
+        try:
+            import torch
+            has_cuda = torch.cuda.is_available()
+        except Exception:  # pragma: no cover - torch optional
+            has_cuda = False
+
+        if device is None:
+            use_gpu = has_cuda
+            device = "cuda" if has_cuda else "cpu"
+        elif device == "cuda" and has_cuda:
+            use_gpu = True
+        else:
+            device = "cpu"
+            use_gpu = False
+
+        self.device = device
+        self.use_gpu = use_gpu
+        self.ner = StanzaNER(device=device, use_gpu=use_gpu)
 
     def _context_score(self, text: str, start: int, end: int, t: str) -> float:
         left = text[max(0, start-24):start].lower()
